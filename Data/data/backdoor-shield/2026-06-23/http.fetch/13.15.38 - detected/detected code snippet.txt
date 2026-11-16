@@ -1,0 +1,98 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199642895724</steamID64>
+	<steamID><![CDATA[Sardelko Sasinni]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/1c9059eb31cab3e92b45d9cfcf17327999df6673.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/1c9059eb31cab3e92b45d9cfcf17327999df6673_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/1c9059eb31cab3e92b45d9cfcf17327999df6673_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>February 22, 2024</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Italy]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Soundpad]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/629520]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/629520/f261c8f5948de73428a1dbed573ec964fcbecb67.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogoSmall>
+			<hoursPlayed>113.4</hoursPlayed>
+			<hoursOnRecord>688</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>96.9</hoursPlayed>
+			<hoursOnRecord>598</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[OBS Studio]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1905180]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1905180/b030cbb319718e6e06ce707ae564e0dd6e560735.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogoSmall>
+			<hoursPlayed>51.1</hoursPlayed>
+			<hoursOnRecord>202</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[The Forest]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/242760]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/242760/3a6847f6ac5879e48531db52261771d5e22904ac.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_184x69.jpg?t=1699381053]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_184x69.jpg?t=1699381053]]></gameLogoSmall>
+			<hoursPlayed>3.7</hoursPlayed>
+			<hoursOnRecord>140</hoursOnRecord>
+			<statsName><![CDATA[242760]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791436409545</groupID64>
+			<groupName><![CDATA[Бесплатные ключи стим]]></groupName>
+			<groupURL><![CDATA[gamemin]]></groupURL>
+			<headline><![CDATA[Лицензионные ключи STEAM, Origin, Ubisoft и другие.]]></headline>
+			<summary><![CDATA[<div class="bb_h1">Интерент магазин дешевых STEAM ключей. </div>И другиг цифровых товаров.<br><br>Сайт проекта: <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fggsel.com%2F%3F%26amp%3Bai%3D212449" target="_blank" rel=" noopener" >https://ggsel.com/?&amp;ai=212449</a><br>Бесплатные ключи к steam только у нас!<br>Там есть с кем поиграть!<br>У нас постоянный турниры и раздачи с ценными призами!<br><br>Ждем всех!<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ft.me%2Fjoinchat%2FtzDwxsVLoSM2OTUy" target="_blank" rel=" noopener" >https://t.me/joinchat/tzDwxsVLoSM2OTUy</a><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fggsel.com%2F%3F%26amp%3Bamp%3Bai%3D212449" target="_blank" rel=" noopener" >Steam аккаунты</a><span class="bb_link_host">[ggsel.com]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fggsel.com%2F%3F%26amp%3Bamp%3Bai%3D212449" target="_blank" rel=" noopener" >Steam испытай удачу</a><span class="bb_link_host">[ggsel.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/47ca99133b967289b9035b00d33846ff469bfbe9.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/47ca99133b967289b9035b00d33846ff469bfbe9_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/47ca99133b967289b9035b00d33846ff469bfbe9_full.jpg]]></avatarFull>
+			<memberCount>9694</memberCount>
+			<membersInChat>3648</membersInChat>
+			<membersInGame>281</membersInGame>
+			<membersOnline>1186</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			6228,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 11:15:38 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1774",
+			Last-Modified	=	"Tue, 23 Jun 2026 10:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 10:15:38 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

@@ -1,0 +1,57 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199401589602</steamID64>
+	<steamID><![CDATA[_mякиш_]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/0968abf13be26417e0a2d1a2c187e9b56690e44d.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/0968abf13be26417e0a2d1a2c187e9b56690e44d_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/0968abf13be26417e0a2d1a2c187e9b56690e44d_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>September 24, 2022</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Russian Federation]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[Cecidit angelus facit memes de Hitler]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791474017865</groupID64>
+			<groupName><![CDATA[.вс]]></groupName>
+			<groupURL><![CDATA[whyBc]]></groupURL>
+			<headline><![CDATA[вс..ки..]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/db554909fe95ab8ea41147c0dae2a692918bfb42.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/db554909fe95ab8ea41147c0dae2a692918bfb42_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/db554909fe95ab8ea41147c0dae2a692918bfb42_full.jpg]]></avatarFull>
+			<memberCount>11</memberCount>
+			<membersInChat>7</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>5</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			1973,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 12:26:08 GMT",
+			Content-Length	=	"752",
+			Last-Modified	=	"Tue, 23 Jun 2026 11:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 11:26:08 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

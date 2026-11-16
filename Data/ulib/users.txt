@@ -1,0 +1,55 @@
+"STEAM_0:0:97018918"	
+{
+	"deny"	
+	{
+	}
+	"name"	"ZELL GUTMANN"
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:31208038"	
+{
+	"allow"	
+	{
+	}
+	"name"	"??swat??"
+	"deny"	
+	{
+	}
+	"group"	"dadmin"
+}
+"STEAM_0:0:686441960"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Бобро-Еб"
+	"group"	"admin"
+}
+"STEAM_0:0:639989442"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Ученик Алабая"
+	"group"	"superadmin"
+}
+"STEAM_0:1:956402688"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Старый Дед"
+	"group"	"superadmin"
+}

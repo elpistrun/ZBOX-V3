@@ -1,0 +1,557 @@
+[
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "2aac6d3d04",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Hawai Pizza",
+		"uniqueid": "cf1fb71e60"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "840f02da26",
+				"lpos": "[0.5 0.5 0.07]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Vegie Pizza",
+		"uniqueid": "3fbe872079"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "9da14724e3",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Meat Pizza",
+		"uniqueid": "8cc55a7d78"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "eaf4422d32",
+				"lpos": "[0.5 0.5 0.1]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate03.mdl",
+		"time": 600,
+		"name": "Spagetti Meat",
+		"uniqueid": "23ddb21443"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "41ea426784",
+				"lpos": "[0.5 0.5 0.11]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate03.mdl",
+		"time": 600,
+		"name": "Spagetti Vegie",
+		"uniqueid": "a365453d95"
+	},
+	{
+		"items": [
+			{
+				"scale": 0.73,
+				"uniqueid": "a3cecf5f71",
+				"lpos": "[0.5 0.5 0.26]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate05.mdl",
+		"time": 600,
+		"name": "Soup Generic",
+		"uniqueid": "a8a16a49fe"
+	},
+	{
+		"items": [
+			{
+				"scale": 0.72,
+				"uniqueid": "6a5a74689c",
+				"lpos": "[0.5 0.5 0.28]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate05.mdl",
+		"time": 600,
+		"name": "Soup Tomato",
+		"uniqueid": "ad52a96439"
+	},
+	{
+		"items": [
+			{
+				"scale": 0.72,
+				"uniqueid": "5417ddb5ba",
+				"lpos": "[0.5 0.5 0.28]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate05.mdl",
+		"time": 600,
+		"name": "Soup Goulash",
+		"uniqueid": "2eac964caa"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "9277032494",
+				"lpos": "[0.41 0.44 0.13]",
+				"lang": "{90 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "9277032494",
+				"lpos": "[0.64 0.44 0.13]",
+				"lang": "{90 57.6 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "9277032494",
+				"lpos": "[0.5 0.66 0.13]",
+				"lang": "{90 57.6 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate04.mdl",
+		"time": 600,
+		"name": "Maki - Fish",
+		"uniqueid": "ea05fb4aa7"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "9277032494",
+				"lpos": "[0.56 0.62 0.13]",
+				"lang": "{90 57.6 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "7a872ba507",
+				"lpos": "[0.36 0.57 0.13]",
+				"lang": "{90 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "4e37b88234",
+				"lpos": "[0.61 0.4 0.12]",
+				"lang": "{90 0.46 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "86a893eaf8",
+				"lpos": "[0.38 0.37 0.12]",
+				"lang": "{90 0.5 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate04.mdl",
+		"time": 600,
+		"name": "Maki - Mix",
+		"uniqueid": "6cb5ada18c"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "04f7f02dc4",
+				"lpos": "[0.7 0.59 0.05]",
+				"lang": "{0 223.2 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "3b44867a77",
+				"lpos": "[0.34 0.47 0.16]",
+				"lang": "{18 133.2 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate03.mdl",
+		"time": 600,
+		"name": "Steak",
+		"uniqueid": "28a911f3f8"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "3b44867a77",
+				"lpos": "[0.63 0.55 0.13]",
+				"lang": "{0 176.4 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "3b44867a77",
+				"lpos": "[0.35 0.56 0.13]",
+				"lang": "{0 25.2 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Pommes",
+		"uniqueid": "59ff2efeb1"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "d042cd82c9",
+				"lpos": "[0.5 0.5 0.06]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "08f87f8949",
+				"lpos": "[0.5 0.5 0.17]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "4e59caf7a3",
+				"lpos": "[0.5 0.5 0.12]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "18c8ba9e90",
+				"lpos": "[0.74 0.5 0.17]",
+				"lang": "{147.6 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "8398b7a744",
+				"lpos": "[0.28 0.54 0.17]",
+				"lang": "{10.8 0.54 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "c46279e450",
+				"lpos": "[0.5 0.5 0.4]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Burger",
+		"uniqueid": "f6ff9a85c4"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "65c1cfef95",
+				"lpos": "[0.37 0.54 0.11]",
+				"lang": "{0 100.8 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "65c1cfef95",
+				"lpos": "[0.59 0.48 0.11]",
+				"lang": "{0 100.8 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "65c1cfef95",
+				"lpos": "[0.48 0.49 0.2]",
+				"lang": "{0 122.4 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate02.mdl",
+		"time": 600,
+		"name": "Baguette",
+		"uniqueid": "1d7f6a1359"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "9d3460cb03",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "9d3460cb03",
+				"lpos": "[0.32 0.5 0.08]",
+				"lang": "{0 7.2 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "9d3460cb03",
+				"lpos": "[0.7 0.49 0.08]",
+				"lang": "{0 3.6 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate03.mdl",
+		"time": 600,
+		"name": "Stick Fish",
+		"uniqueid": "128b12b01f"
+	},
+	{
+		"items": [
+			{
+				"scale": 0.83,
+				"uniqueid": "9e4977a760",
+				"lpos": "[0.5 0.5 0.19]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 0.62,
+				"uniqueid": "ce07ee2d41",
+				"lpos": "[0.5 0.5 0.32]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate05.mdl",
+		"time": 600,
+		"name": "Holiday Cup",
+		"uniqueid": "c78e1fb08c"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "e83baad1cf",
+				"lpos": "[0.5 0.5 0.22]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 60,
+		"name": "Soda",
+		"uniqueid": "7349296f4d"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "eaf4422d32",
+				"lpos": "[0.4967 0.6273 0.11]",
+				"lang": "{0 0.6273 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"uniqueid": "d01ed682bda",
+		"time": 10,
+		"name": "Dish Name",
+		"price": 1
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "c46279e450",
+				"lpos": "[0.5 0.5 0.58]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "d042cd82c9",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "04f7f02dc4",
+				"lpos": "[0.5 0.5 0.2]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "8398b7a744",
+				"lpos": "[0.5 0.5 0.27]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "18c8ba9e90",
+				"lpos": "[0.5 0.5 0.31]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 0.7,
+				"uniqueid": "3b44867a77",
+				"lpos": "[0.5 0.5 0.34]",
+				"lang": "{0 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "4e59caf7a3",
+				"lpos": "[0.5 0.5 0.27]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "9da14724e3",
+				"lpos": "[0.5 0.5 0.3]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate02.mdl",
+		"price": 0,
+		"time": 10,
+		"name": "Китайский Булгэл",
+		"uniqueid": "dcc5ec0842a"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "2aac6d3d04",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"time": 600,
+		"name": "Hawai Pizza Скопировать",
+		"uniqueid": "dbdf0848cea"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "4629ad1cd2",
+				"lpos": "[0.4867 0.5182 0.4]",
+				"lang": "{90 0.5455 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "04f7f02dc4",
+				"lpos": "[0.5 0.5 0.26]",
+				"lang": "{0 97.2 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "c46279e450",
+				"lpos": "[0.45 0.1364 0.41]",
+				"lang": "{0 0 43.2}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "c46279e450",
+				"lpos": "[0.4867 0.8136 0.35]",
+				"lang": "{0 0.9318 302.4}"
+			},
+			{
+				"scale": 0.54,
+				"uniqueid": "e83baad1cf",
+				"lpos": "[0.4967 0.5182 0.77]",
+				"lang": "{0 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "3b44867a77",
+				"lpos": "[0.5 0.5 0.33]",
+				"lang": "{0 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "eaf4422d32",
+				"lpos": "[0.5 0.5 0.27]",
+				"lang": "{0 0.5 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate03.mdl",
+		"uniqueid": "60eeb91d34a",
+		"time": 10,
+		"name": "Пицца-Булгэл",
+		"price": 0
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "04f7f02dc4",
+				"lpos": "[0.5 0.5 0.08]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 0.54,
+				"uniqueid": "eaf4422d32",
+				"lpos": "[0.5 0.5 0.18]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "4629ad1cd2",
+				"lpos": "[0.5 0.5 0.5]",
+				"lang": "{90 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "4629ad1cd2",
+				"lpos": "[0.5 0.5 0.5]",
+				"lang": "{90 0.5 68.4}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "65c1cfef95",
+				"lpos": "[0.4533 0.4909 0.43]",
+				"lang": "{90 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "65c1cfef95",
+				"lpos": "[0.5667 0.4955 0.39]",
+				"lang": "{90 0.4909 176.4}"
+			},
+			{
+				"scale": 0.36,
+				"uniqueid": "9e4977a760",
+				"lpos": "[0.5 0.5 1]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate01.mdl",
+		"price": 0,
+		"time": 600,
+		"name": "Ниггерская пицца",
+		"uniqueid": "e6a8ffc0f8a"
+	},
+	{
+		"items": [
+			{
+				"scale": 1,
+				"uniqueid": "d042cd82c9",
+				"lpos": "[0.5 0.5 0.12]",
+				"lang": "{0 0.5 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "34b37629c7",
+				"lpos": "[0.5 0.5 0.21]",
+				"lang": "{0 0 0}"
+			},
+			{
+				"scale": 1,
+				"uniqueid": "b32f54a2b6",
+				"lpos": "[0.5 0.5364 0.5]",
+				"lang": "{0 0 0}"
+			}
+		],
+		"mdl": "models/zerochain/props_kitchen/zmc_plate02.mdl",
+		"price": 0,
+		"time": 600,
+		"name": "рыбная хуйня",
+		"uniqueid": "82e0099ee3a"
+	}
+]

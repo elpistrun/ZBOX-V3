@@ -1,0 +1,193 @@
+{
+	"11": {
+		"meta": {
+			"savedAt": 1776278153,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"torso": "vest30"
+		},
+		"weapons": [],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"top1": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776278520
+		},
+		"ammo": {
+			"94": 30,
+			"78": 150,
+			"46": 30,
+			"95": 448,
+			"76": 2356,
+			"77": 150
+		},
+		"activeWeapon": "weapon_m9a3",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_zarya",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": {
+							"1": "grip3",
+							"3": []
+						},
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9a3",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"ironsight2",
+			"ironsight1",
+			"holo16"
+		]
+	},
+	"1234": {
+		"meta": {
+			"savedAt": 1776279078,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"94": 30,
+			"78": 150,
+			"95": 441,
+			"76": 230
+		},
+		"activeWeapon": "weapon_mk18cqbr",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m9a3",
+				"clip1": 17,
+				"info": [
+					17,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": {
+							"1": "grip3",
+							"3": []
+						},
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	}
+}

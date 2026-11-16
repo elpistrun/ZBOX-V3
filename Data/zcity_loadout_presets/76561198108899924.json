@@ -1,0 +1,2609 @@
+{
+	"rshg-2 + pistol + set": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776291366
+		},
+		"ammo": {
+			"46": 74
+		},
+		"activeWeapon": "weapon_fn45",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"head": "helmet20"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rshg",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fn45",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_breachcharge",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_traitor_ied",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_molotov_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_pipebomb_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_rgd_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_type59_tpik",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"XM-1014": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776290944
+		},
+		"ammo": {
+			"95": 44,
+			"60": 36,
+			"58": 48
+		},
+		"activeWeapon": "weapon_xm1014",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_xm1014",
+				"clip1": 8,
+				"info": [
+					8,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"face": "mask1",
+			"head": "helmet21"
+		},
+		"inventoryAttachments": []
+	},
+	"AXMC": {
+		"meta": {
+			"savedAt": 1776290509,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"46": 44,
+			"39": 47
+		},
+		"activeWeapon": "weapon_axmc",
+		"armor": {
+			"torso": "vest31",
+			"ears": "headphones1"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_axmc",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor8",
+							"3": []
+						},
+						"sight": [
+							"optic16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fn45",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [
+							"holo16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"SR25": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776290362
+		},
+		"ammo": {
+			"46": 44,
+			"85": 160
+		},
+		"activeWeapon": "weapon_sr25",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fn45",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [
+							"holo16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_sr25",
+				"clip1": 19,
+				"info": [
+					19,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic5",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest31",
+			"ears": "headphones1"
+		},
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"HK G36": {
+		"meta": {
+			"savedAt": 1776290669,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"95": 44,
+			"76": 199
+		},
+		"activeWeapon": "weapon_g36e2",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_g36e2",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"optic8",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest33",
+			"ears": "headphones2",
+			"head": "helmet21"
+		},
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"cheytac": {
+		"meta": {
+			"savedAt": 1776513674,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"46": 44,
+			"54": 47
+		},
+		"activeWeapon": "weapon_cheytac",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_cheytac",
+				"clip1": 7,
+				"info": [
+					7,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor8",
+							"3": []
+						},
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fn45",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [
+							"holo16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest31",
+			"ears": "headphones1"
+		},
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"AKMN": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776290739
+		},
+		"ammo": {
+			"95": 44,
+			"82": 275
+		},
+		"activeWeapon": "weapon_akmnboss",
+		"armor": {
+			"torso": "vest21",
+			"ears": "headphones2",
+			"head": "helmet21"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_akmnboss",
+				"clip1": 75,
+				"info": [
+					75,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"MP7 GASMASK": {
+		"meta": {
+			"savedAt": 1776290831,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"95": 44,
+			"74": 200
+		},
+		"activeWeapon": "weapon_mp7",
+		"clothes": [],
+		"armor": {
+			"torso": "vest16",
+			"ears": "headphones2",
+			"face": "mask2",
+			"head": "helmet18"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mp7",
+				"clip1": 41,
+				"info": [
+					41,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo7",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"PKM": {
+		"meta": {
+			"savedAt": 1776290190,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"95": 29,
+			"86": 200
+		},
+		"activeWeapon": "weapon_pkm",
+		"clothes": [],
+		"armor": {
+			"torso": "vest15",
+			"ears": "headphones3",
+			"head": "helmet20"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_pkm",
+				"clip1": 100,
+				"info": [
+					100,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"M249 FACEMASK": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776290585
+		},
+		"ammo": {
+			"95": 29,
+			"76": 200
+		},
+		"activeWeapon": "weapon_m249eft",
+		"clothes": [],
+		"armor": {
+			"torso": "vest12",
+			"ears": "headphones1",
+			"face": "mask1",
+			"head": "helmet6"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m249eft",
+				"clip1": 150,
+				"info": [
+					150,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"rshg-2": {
+		"meta": {
+			"savedAt": 1776291037,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rshg",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"HK416 CQB": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776290071
+		},
+		"ammo": {
+			"95": 44,
+			"76": 200
+		},
+		"activeWeapon": "weapon_hk416",
+		"armor": {
+			"torso": "vest33",
+			"ears": "headphones2",
+			"head": "helmet21"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_smallconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_matches",
+				"clip1": 5
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_hl2nade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m9berettacommando",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_handcuffs_key",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hk416",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mannitol",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigconsumable",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"ironsight1",
+			"optic8"
+		]
+	}
+}

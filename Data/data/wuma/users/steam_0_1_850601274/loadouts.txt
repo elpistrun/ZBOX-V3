@@ -1,0 +1,1 @@
+{"parentid":"STEAM_0:1:850601274","parent":"STEAM_0:1:850601274","weapons":{"gmod_tool":{"respect_restrictions":true,"class":"gmod_tool","primary":-1,"secondary":-1},"weapon_physgun":{"respect_restrictions":true,"class":"weapon_physgun","primary":-1,"secondary":-1},"gmod_camera":{"respect_restrictions":true,"class":"gmod_camera","primary":-1,"secondary":-1}}}

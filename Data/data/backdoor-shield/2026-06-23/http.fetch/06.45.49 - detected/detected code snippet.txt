@@ -1,0 +1,135 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198429913434</steamID64>
+	<steamID><![CDATA[УльтраПодпивас]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/c2d49c3518111447a59a23e2c9439e156d7761a8.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/c2d49c3518111447a59a23e2c9439e156d7761a8_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/c2d49c3518111447a59a23e2c9439e156d7761a8_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[ARTEMIDZEEEEE]]></customURL>
+	<memberSince>October 5, 2017</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Niger]]></location>
+	<realname><![CDATA[i am]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>35.0</hoursPlayed>
+			<hoursOnRecord>5,053</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[OBS Studio]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1905180]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1905180/b030cbb319718e6e06ce707ae564e0dd6e560735.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogoSmall>
+			<hoursPlayed>3.5</hoursPlayed>
+			<hoursOnRecord>28</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[IO Auto Clicker]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4090430]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4090430/bb43aefa9628a05a1f189477d110b98dea1b8ce5.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090430/e6cc491808f45e4157314e8e2e53bbd6bbdcf8f9/capsule_184x69.jpg?t=1778843047]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090430/e6cc491808f45e4157314e8e2e53bbd6bbdcf8f9/capsule_184x69.jpg?t=1778843047]]></gameLogoSmall>
+			<hoursPlayed>3.1</hoursPlayed>
+			<hoursOnRecord>38</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogoSmall>
+			<hoursPlayed>2.0</hoursPlayed>
+			<hoursOnRecord>1,664</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791472056535</groupID64>
+			<groupName><![CDATA[sɹǝƃƃᴉu]]></groupName>
+			<groupURL><![CDATA[lebvjsksf]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/e7e5702fd0a2f44a2911de0004000de641b53e88.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/e7e5702fd0a2f44a2911de0004000de641b53e88_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/e7e5702fd0a2f44a2911de0004000de641b53e88_full.jpg]]></avatarFull>
+			<memberCount>4</memberCount>
+			<membersInChat>1</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>1</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196347</memberCount>
+			<membersInChat>17905</membersInChat>
+			<membersInGame>3615</membersInGame>
+			<membersOnline>26809</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791455142325</groupID64>
+			<groupName><![CDATA[-BLACK LIVES MATTER-]]></groupName>
+			<groupURL><![CDATA[BBMMLL]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fad02cc1c2040da21084a6b85d776936dc669188.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fad02cc1c2040da21084a6b85d776936dc669188_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fad02cc1c2040da21084a6b85d776936dc669188_full.jpg]]></avatarFull>
+			<memberCount>165</memberCount>
+			<membersInChat>9</membersInChat>
+			<membersInGame>3</membersInGame>
+			<membersOnline>22</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791465252027</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473659634</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791474256909</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			6944,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 04:45:48 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1580",
+			Last-Modified	=	"Tue, 23 Jun 2026 03:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 03:45:48 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

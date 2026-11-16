@@ -1,0 +1,58 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198146928167</steamID64>
+	<steamID><![CDATA[Соня Мармеладова]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/e0e5127a58a3c2dcde03e5a54a4230bd4bd7b6e8.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/e0e5127a58a3c2dcde03e5a54a4230bd4bd7b6e8_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/e0e5127a58a3c2dcde03e5a54a4230bd4bd7b6e8_full.jpg]]></avatarFull>
+	<vacBanned>1</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[VillIkunOffical]]></customURL>
+	<memberSince>July 26, 2014</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[China]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/Coki" alt=":Coki:" class="emoticon"> <a class="bb_link" href="https://steamcommunity.com/id/Loshara2123" target="_blank" rel="" >[2 a k k ]</a> <br><img src="https://community.akamai.steamstatic.com/economy/emoticon/Coki" alt=":Coki:" class="emoticon"> <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F3CCFS2bS" target="_blank" rel=" noopener" >[d i s c o r d]</a> <span class="bb_link_host">[discord.gg]</span><br><img src="https://community.akamai.steamstatic.com/economy/emoticon/Coki" alt=":Coki:" class="emoticon"> <a class="bb_link" href="https://steamcommunity.com/id/VillIkunOffical/?l=korean" target="_blank" rel="" >[18+]</a> ]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791435542737</groupID64>
+			<groupName><![CDATA[Rustafied]]></groupName>
+			<groupURL><![CDATA[rustafied]]></groupURL>
+			<headline><![CDATA[On The Pulse of Rust]]></headline>
+			<summary><![CDATA[The official Steam group for Rustafied.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.rustafied.com" target="_blank" rel=" noopener" >http://www.rustafied.com</a><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fforum.rustafied.com" target="_blank" rel=" noopener" >https://forum.rustafied.com</a><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Frustafied.com%2Fdiscord" target="_blank" rel=" noopener" >Rustafied Discord</a><span class="bb_link_host">[rustafied.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/b92e06a28b991c60853a4c646def432f6e5e0d23.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/b92e06a28b991c60853a4c646def432f6e5e0d23_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/b92e06a28b991c60853a4c646def432f6e5e0d23_full.jpg]]></avatarFull>
+			<memberCount>15382</memberCount>
+			<membersInChat>1077</membersInChat>
+			<membersInGame>368</membersInGame>
+			<membersOnline>2055</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			3293,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 02:41:53 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1073",
+			Last-Modified	=	"Tue, 23 Jun 2026 01:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 01:41:53 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

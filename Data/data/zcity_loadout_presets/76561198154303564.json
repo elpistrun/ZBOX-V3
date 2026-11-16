@@ -1,0 +1,1850 @@
+{
+	"scar H": {
+		"meta": {
+			"savedAt": 1777098310,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"85": 80
+		},
+		"activeWeapon": "weapon_scarh",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_scarh",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"xm 8": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777443799
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_xm8",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_xm8",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"pt1": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777440682
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"optic15"
+		]
+	},
+	"cqb 11": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777443893
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_mk1",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk1",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"ironsight1",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"mk 18": {
+		"meta": {
+			"savedAt": 1777443861,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_mk18",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"ironsight2",
+							{
+								"2": "models/drgordon/weapons/colt/m4/m4_sights"
+							}
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"rsas": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777098205
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_rsass",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_rsass",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic5",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"lr300": {
+		"meta": {
+			"savedAt": 1777439505,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"77": 120
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_lr300",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": {
+							"1": "laser5",
+							"3": []
+						},
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest16",
+			"ears": "headphones3"
+		},
+		"inventoryAttachments": []
+	},
+	"z": {
+		"meta": {
+			"savedAt": 1776928284,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tokarev",
+				"clip1": 2,
+				"info": [
+					2,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"Sako": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776592221
+		},
+		"ammo": {
+			"95": 17,
+			"39": 8
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"ears": "headphones3",
+			"torso": "vest20"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_sako",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor8",
+							"3": []
+						},
+						"sight": [
+							"optic17",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_glock18c",
+				"clip1": 17,
+				"info": [
+					17,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"osnova": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777440800
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"vsk 1": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776589386
+		},
+		"ammo": {
+			"97": 60
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_vsk94",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic4",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest21",
+			"ears": "headphones4"
+		},
+		"inventoryAttachments": []
+	},
+	"amp dsr 1": {
+		"meta": {
+			"savedAt": 1777445110,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_dsr1",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_dsr1",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic15",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": [
+			"optic17"
+		]
+	},
+	"zastava": {
+		"meta": {
+			"savedAt": 1777360381,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"81": 30,
+			"82": 100
+		},
+		"activeWeapon": "weapon_m70",
+		"armor": {
+			"torso": "vest14",
+			"head": "helmet16"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m70",
+				"clip1": 0,
+				"info": [
+					0,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"fn f 2000": {
+		"meta": {
+			"savedAt": 1777443773,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_fn2000",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fn2000",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo9",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"ia2": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777443749
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ia2",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"m14dmr": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776595857
+		},
+		"ammo": {
+			"85": 40
+		},
+		"activeWeapon": "weapon_m14dmr",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m14dmr",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic15",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"ears": "headphones3",
+			"head": "helmet20"
+		},
+		"inventoryAttachments": []
+	},
+	"famas": {
+		"meta": {
+			"savedAt": 1777444115,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_famasf1",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_famasf1",
+				"clip1": 25,
+				"info": [
+					25,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"empty"
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"vsk": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776846936
+		},
+		"ammo": {
+			"97": 60
+		},
+		"activeWeapon": "weapon_hg_eft_vog17",
+		"clothes": [],
+		"armor": {
+			"torso": "vest21",
+			"ears": "headphones4"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_vsk94",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic4",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"axmc": {
+		"meta": {
+			"savedAt": 1777440918,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_axmc",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic17",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"mk18": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777121284
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_mk18cqbr",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fury13",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	}
+}

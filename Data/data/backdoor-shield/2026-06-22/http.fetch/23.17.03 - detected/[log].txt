@@ -1,0 +1,19 @@
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 17m 03s
+    Location: lua/homigrad/sh_physhandler.lua
+    Function: http.Fetch
+    Trying to call:
+        hook.Add
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.17.03 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Add'
+	addons/homigrad/lua/homigrad/sh_physhandler.lua:57: in main chunk
+	[C]: in function 'include'
+	addons/homigrad/lua/autorun/loader.lua:44: in function 'AddFile'
+	addons/homigrad/lua/autorun/loader.lua:62: in function 'IncludeDir'
+	addons/homigrad/lua/autorun/loader.lua:78: in function 'Run'
+	addons/homigrad/lua/autorun/loader.lua:91: in main chunk

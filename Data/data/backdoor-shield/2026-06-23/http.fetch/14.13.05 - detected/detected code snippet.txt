@@ -1,0 +1,41 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199791452518</steamID64>
+	<steamID><![CDATA[szxpeek?? | lamperysh]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/97a4836de3c4d2c6446f69b21c8ce477ca59a195.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/97a4836de3c4d2c6446f69b21c8ce477ca59a195_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/97a4836de3c4d2c6446f69b21c8ce477ca59a195_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>October 11, 2024</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Lesnoy, Sverdlovsk, Russian Federation]]></location>
+	<realname><![CDATA[Lelouch]]></realname>
+	<summary><![CDATA[Sonya Skvirtik??]]></summary>
+
+
+</profile>
+",
+			1166,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 12:13:05 GMT",
+			Content-Length	=	"539",
+			Last-Modified	=	"Tue, 23 Jun 2026 11:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 11:13:05 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

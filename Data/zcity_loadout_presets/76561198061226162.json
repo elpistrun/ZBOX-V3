@@ -1,0 +1,423 @@
+{
+	"1.1111111111333e+17": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776849538
+		},
+		"ammo": {
+			"81": 200,
+			"103": 102,
+			"38": 199
+		},
+		"activeWeapon": "weapon_milkormgl",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_p22",
+				"clip1": 17,
+				"info": [
+					17,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_milkormgl",
+				"clip1": 1,
+				"info": [
+					1,
+					[]
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest11",
+			"ears": "headphones1",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"inventoryAttachments": []
+	},
+	"111111111": {
+		"meta": {
+			"savedAt": 1777266177,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_vsk94",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_vsk94",
+				"clip1": 19,
+				"info": [
+					19,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic4",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"1.1111111111111e+18": {
+		"meta": {
+			"savedAt": 1777089229,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_ak203",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"1111111111": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777265259
+		},
+		"ammo": {
+			"86": 400,
+			"81": 200,
+			"84": 100,
+			"38": 200
+		},
+		"activeWeapon": "weapon_pkm",
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest11",
+			"ears": "headphones1",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_p22",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_pkm",
+				"clip1": 100,
+				"info": [
+					100,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"1.1111111111133e+21": {
+		"meta": {
+			"savedAt": 1776850125,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"84": 100,
+			"81": 200,
+			"38": 200
+		},
+		"activeWeapon": "weapon_rsass",
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest11",
+			"ears": "headphones1",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_p22",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_rsass",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"11111": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776847149
+		},
+		"ammo": {
+			"81": 200
+		},
+		"activeWeapon": "weapon_hg_f1_tpik",
+		"clothes": [],
+		"armor": {
+			"torso": "vest11",
+			"ears": "headphones1",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_p22",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	}
+}

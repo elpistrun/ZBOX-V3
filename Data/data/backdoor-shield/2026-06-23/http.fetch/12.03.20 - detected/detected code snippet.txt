@@ -1,0 +1,115 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199197515806</steamID64>
+	<steamID><![CDATA[JDGODS]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/7c831ca93271a550a88874dd71e28c0fb86602da.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/7c831ca93271a550a88874dd71e28c0fb86602da_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/7c831ca93271a550a88874dd71e28c0fb86602da_full.jpg]]></avatarFull>
+	<vacBanned>1</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>August 10, 2021</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Texas, United States]]></location>
+	<realname><![CDATA[JDГОDS]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/zombiehead" alt=":zombiehead:" class="emoticon"><br><br>]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>103.2</hoursPlayed>
+			<hoursOnRecord>1,314</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[OBS Studio]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1905180]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1905180/b030cbb319718e6e06ce707ae564e0dd6e560735.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogoSmall>
+			<hoursPlayed>9.6</hoursPlayed>
+			<hoursOnRecord>24</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Blender]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/365670]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/365670/48733cd333eea6e40711a1b9c6dde32ffe363ced.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365670/capsule_184x69.jpg?t=1773742452]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365670/capsule_184x69.jpg?t=1773742452]]></gameLogoSmall>
+			<hoursPlayed>2.4</hoursPlayed>
+			<hoursOnRecord>4.7</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[VRChat]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/438100]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/438100/52c5f93bd9f8de008307f5fad95023600267462c.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/capsule_184x69.jpg?t=1762366454]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/capsule_184x69.jpg?t=1762366454]]></gameLogoSmall>
+			<hoursPlayed>1.2</hoursPlayed>
+			<hoursOnRecord>1.6</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Casualties: Unknown Demo]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4576510]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4576510/6e9aab8fff56c9b9347cd078b8b77dab22836ec8.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576510/4d5c2c0eeb7c6047078d60915daf312a260f2d77/capsule_184x69.jpg?t=1782201606]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576510/4d5c2c0eeb7c6047078d60915daf312a260f2d77/capsule_184x69.jpg?t=1782201606]]></gameLogoSmall>
+			<hoursPlayed>0.8</hoursPlayed>
+			<hoursOnRecord>0.8</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Totally Accurate Battlegrounds]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/823130]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/823130/920902c516d435c3d9a6c5ef92e3cd4372f9314b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823130/capsule_184x69.jpg?t=1736758204]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823130/capsule_184x69.jpg?t=1736758204]]></gameLogoSmall>
+			<hoursPlayed>0.7</hoursPlayed>
+			<hoursOnRecord>11.2</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791463504794</groupID64>
+			<groupName><![CDATA[GambitRP]]></groupName>
+			<groupURL><![CDATA[GambitRP_Grp]]></groupURL>
+			<headline><![CDATA[Gambit Role Play l Garry's Mod]]></headline>
+			<summary><![CDATA[<div class="bb_h1"> Сервера </div><div class="bb_code">GambitRP #1 - 212.22.93.215:27015 [Нет машин, Высокий ФПС, Битмайнеры, rp_bangclaw] </div> <div class="bb_code">GambitRP #2 - 212.22.93.171:27015 [Машины, Высокий ФПС, Битмайнеры, rp_downtown_tits_v2] </div> <br><b>Полезные ссылки</b><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Fdiscord" target="_blank" rel=" noopener" > Discord</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Frules" target="_blank" rel=" noopener" > Правила</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Fvk" target="_blank" rel=" noopener" > Группа ВК</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fforum.gambitrp.site" target="_blank" rel=" noopener" > Форум </a><span class="bb_link_host">[forum.gambitrp.site]</span><br>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_full.jpg]]></avatarFull>
+			<memberCount>28104</memberCount>
+			<membersInChat>4155</membersInChat>
+			<membersInGame>1028</membersInGame>
+			<membersOnline>4083</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			7665,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 10:03:20 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1901",
+			Last-Modified	=	"Tue, 23 Jun 2026 09:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 09:03:20 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

@@ -1,0 +1,111 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199022978197</steamID64>
+	<steamID><![CDATA[asirius]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/5d26ef1e9fa00c64001b552dd71d400a5bc558a2.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/5d26ef1e9fa00c64001b552dd71d400a5bc558a2_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/5d26ef1e9fa00c64001b552dd71d400a5bc558a2_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>January 30, 2020</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Russian Federation]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>41.2</hoursPlayed>
+			<hoursOnRecord>3,254</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[BeamNG.drive]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/284160]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/284160/34f8997c32b2f463caf2014aab4a95109a896ecc.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/727b938bf07eaf615baf2d9bb6ffebca1fa8b5d5/capsule_184x69.jpg?t=1772048121]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/727b938bf07eaf615baf2d9bb6ffebca1fa8b5d5/capsule_184x69.jpg?t=1772048121]]></gameLogoSmall>
+			<hoursPlayed>0.5</hoursPlayed>
+			<hoursOnRecord>65</hoursOnRecord>
+			<statsName><![CDATA[284160]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791473404256</groupID64>
+			<groupName><![CDATA[Za Pоссию!]]></groupName>
+			<groupURL><![CDATA[ilovemyhomelandrussia]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[<div class="bb_h1"> ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌ ⚡ Zа Россию! Никогда не сдаёмся!⚡ </div><hr></hr><br><b> Всех приветствую! Zа Россию! возрождается в новом стиле! </b><br><br>Группа была создана в рамках поддержки и объединения российского населения и поддерживающих Россию народов в одном месте. В эпоху информационных войн важно создавать локальные сообщества, помнить свою историю и участвовать в том, что тебя окружает. <br><br><b> Добро пожаловать, друг! </b><br><hr></hr><br><br><div class="bb_h1"> ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌ ⛔Правила и принципы Zа Россию!⛔ </div> Запрещается следующее:  <br><br><div class="bb_code"><b>💢Разжигать словесные войны или оскорблять других участников обсуждений<br><br>💢Обходить фильтры<br><br>💢Злоупотреблять или призывать к злоупотреблению системой жалоб<br><br>💢Публиковать личную информацию (имена, электронные адреса, номера телефонов и т.д.)<br><br>💢Писать не по теме обсуждения<br><br>💢Размещать ссылки на фишинговые сайты<br><br>💢Устраивать открытый спор с модератором<br><br>💢Порнография, неприличный или оскорбительный контент, взломанное ПО, контент, утёкший в сеть, или любой другой контент, который небезопасен для просмотра на работе </b> </div><br><hr></hr><br><br><div class="bb_h1"> ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌᠌ ᠌ ᠌  ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌👍Полезные ссылки👍</div><br><div class="bb_h1">  ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌  ᠌ ᠌ ᠌ ᠌ ᠌<a class="bb_link" href="https://steamcommunity.com/groups/ilovemyhomelandrussia/discussions/0/5913829825694918483/" target="_blank" rel="" > 💪🏻Символика ZVO💪🏻 </a> <div class="bb_h1"><br><div class="bb_h1">  ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌᠌ ᠌<a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FtCATrupDD2" target="_blank" rel=" noopener" > 🎮Discord-сервер!🎮</a><span class="bb_link_host">[discord.gg]</span> <div class="bb_h1"></div></div></div></div>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/83fa39763e650da56f1a924a47417359d867d7e6.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/83fa39763e650da56f1a924a47417359d867d7e6_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/83fa39763e650da56f1a924a47417359d867d7e6_full.jpg]]></avatarFull>
+			<memberCount>1328</memberCount>
+			<membersInChat>142</membersInChat>
+			<membersInGame>33</membersInGame>
+			<membersOnline>154</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196349</memberCount>
+			<membersInChat>17906</membersInChat>
+			<membersInGame>3390</membersInGame>
+			<membersOnline>25103</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429551180</groupID64>
+			<groupName><![CDATA[Russian Steam Community]]></groupName>
+			<groupURL><![CDATA[ru_steam]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/7260873cf086432513b4c92a89f47b83c884e0c2.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/7260873cf086432513b4c92a89f47b83c884e0c2_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/7260873cf086432513b4c92a89f47b83c884e0c2_full.jpg]]></avatarFull>
+			<memberCount>254423</memberCount>
+			<membersInChat>18238</membersInChat>
+			<membersInGame>3273</membersInGame>
+			<membersOnline>19986</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791471266378</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			8598,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 07:17:33 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2530",
+			Last-Modified	=	"Tue, 23 Jun 2026 06:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 06:17:34 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

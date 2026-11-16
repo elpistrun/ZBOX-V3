@@ -1,0 +1,110 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199154460355</steamID64>
+	<steamID><![CDATA[Гиена 777]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/278c8978d6987f486190170963d7b86c46084292.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/278c8978d6987f486190170963d7b86c46084292_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/278c8978d6987f486190170963d7b86c46084292_full.jpg]]></avatarFull>
+	<vacBanned>1</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>March 25, 2021</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>10.4</hoursPlayed>
+			<hoursOnRecord>4,221</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Half Sword Demo]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/2642680]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/2642680/450582b53be4fbb05bc6c437b8221c2943da1f29.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2642680/capsule_184x69.jpg?t=1745312642]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2642680/capsule_184x69.jpg?t=1745312642]]></gameLogoSmall>
+			<hoursPlayed>0.1</hoursPlayed>
+			<hoursOnRecord>22</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791455593141</groupID64>
+			<groupName><![CDATA[urf.im игровое сообщество]]></groupName>
+			<groupURL><![CDATA[urfimofficial]]></groupURL>
+			<headline><![CDATA[🚀 garry's mod — значит urf.im]]></headline>
+			<summary><![CDATA[<div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Ffreegarrys" target="_blank" rel=" noopener" >🎁Хочешь промокоды? Подпишись на Халяву Garry's Mod - там публикуют кредиты каждый день! 🔥</a><span class="bb_link_host">[vk.com]</span></div><br><br><div class="bb_h1"><b>❤️ Наши сервера (ip, обсуждения, новости):</b></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >➡️ Начни своё приключение!</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Fmetro" target="_blank" rel=" noopener" >➡️ Metro 20.33 RP | Мертвая Москва</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Fstalker" target="_blank" rel=" noopener" >➡️ Сердце Зоны &amp; Зов Припяти STALKER RP</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Fhl2rp" target="_blank" rel=" noopener" >➡️ За Фримэном! HL2RP</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Fww2" target="_blank" rel=" noopener" >➡️ ВТОРАЯ МИРОВАЯ жизнь в оккупации</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Fscp" target="_blank" rel=" noopener" >➡️ SCP Обезопасить Удержать Сохранить</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fserver%2Fconnect%2Ffnaf" target="_blank" rel=" noopener" >➡️ Русский FNAF RP</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >... и многие другие!</a><span class="bb_link_host">[urf.im]</span></div><br><div class="bb_h1"><b>💡Ответы на частые вопросы:</b></div><br><div class="bb_h1">Ищешь группы ВК любимых серверов?</div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >Посмотри на нашем сайте</a><span class="bb_link_host">[urf.im]</span><br><br><br><div class="bb_h1">Мне не пришёл донат, что делать?</div>Напишите нашему <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.me%2Fconsultanturfim" target="_blank" rel=" noopener" >Консультанту</a><span class="bb_link_host">[vk.me]</span>, просим вас указать ваш стим айди, название сервера и прочую информацию, которая поможет нам решить вашу проблемы быстрее (например чек). Если вы ждали более 24 часов вы имеете право на дополнительный бонус.<br><br><div class="bb_h1"> Я не получил кредиты за вступление в группу, что делать?</div>Кредиты за вступление в группу стим и деньги за вступление в группу вк приходят в течение 10 минут. Если этого не произошло, то проверьте, что ваш профиль стим публичный и напишите !steam чтобы получить кредиты. <br><br><div class="bb_h1">Я не могу найти сервер в списке, что делать?</div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >Подключись используя веб сайт urf.im или нажми одну из ссылок выше</a><span class="bb_link_host">[urf.im]</span><br><br><div class="bb_h1">Куда подать жалобу на админа?</div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >В группу ВК сервера, ссылку ищи на нашем сайте!</a><span class="bb_link_host">[urf.im]</span><br><br><div class="bb_h1">У меня вылетает / ERROR'ки прочие ошибки?</div>Посетите страницу <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2Fpage%2Ftech" target="_blank" rel=" noopener" >технической помощи</a><span class="bb_link_host">[urf.im]</span>.<br><br><div class="bb_h1">Не знаешь во что поиграть?</div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Furf.im%2F" target="_blank" rel=" noopener" >Посмотри у нас на сайте!</a><span class="bb_link_host">[urf.im]</span><br><br><br><br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Furf.im" target="_blank" rel=" noopener" >⚡Веб сайт urf.im - список серверов, IP, полезные ссылки</a><span class="bb_link_host">[urf.im]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Ffreegarrys" target="_blank" rel=" noopener" >🔥 Промокоды каждый день - Халява Garry's Mod</a><span class="bb_link_host">[vk.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/2df30300932992a13a4b252f49f8b31b9b92f89b.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/2df30300932992a13a4b252f49f8b31b9b92f89b_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/2df30300932992a13a4b252f49f8b31b9b92f89b_full.jpg]]></avatarFull>
+			<memberCount>57009</memberCount>
+			<membersInChat>6312</membersInChat>
+			<membersInGame>1453</membersInGame>
+			<membersOnline>7133</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791465170661</groupID64>
+			<groupName><![CDATA[☆ UmbrellaRP-игровое сообщество]]></groupName>
+			<groupURL><![CDATA[rusumbrella]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/95df43fea2f16598bda4d2459d1901f6a2df756f.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/95df43fea2f16598bda4d2459d1901f6a2df756f_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/95df43fea2f16598bda4d2459d1901f6a2df756f_full.jpg]]></avatarFull>
+			<memberCount>32137</memberCount>
+			<membersInChat>7666</membersInChat>
+			<membersInGame>1107</membersInGame>
+			<membersOnline>4689</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791471194380</groupID64>
+			<groupName><![CDATA[Мухосранск РП]]></groupName>
+			<groupURL><![CDATA[muxosranskrp]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0_full.jpg]]></avatarFull>
+			<memberCount>9255</memberCount>
+			<membersInChat>729</membersInChat>
+			<membersInGame>343</membersInGame>
+			<membersOnline>1413</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791472460317</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			11427,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 10:05:31 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2934",
+			Last-Modified	=	"Tue, 23 Jun 2026 09:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 09:05:31 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

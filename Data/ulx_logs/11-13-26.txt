@@ -1,0 +1,485 @@
+[13:19:53] New map: gm_construct
+[13:19:55] Client "Старый Дед" connected.
+[13:20:17] Client "Уебок" connected.
+[13:21:53] Client "Ученик Алабая" connected.
+[13:22:23] Client "ZELL GUTMANN" connected.
+[13:22:36] Client "??swat??" connected.
+[13:22:54] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 31 seconds).
+[13:23:43] Client "Старый Дед" connected.
+[13:24:17] Client "Luftwaffe" connected.
+[13:24:28] Client "natredd_" connected.
+[13:24:46] Dropped "ZELL GUTMANN" from server<STEAM_0:0:97018918>
+[13:24:46] ZELL GUTMANN suicided!
+[13:25:50] Client "Luftwaffe" spawned in server <STEAM_0:0:541252489> (took 93 seconds).
+[13:25:50] Dropped "Luftwaffe" from server<STEAM_0:0:541252489>
+[13:25:50] Luftwaffe suicided!
+[13:26:30] Client "ZELL GUTMANN" connected.
+[13:26:52] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 22 seconds).
+[13:27:16] Client "Luftwaffe" connected.
+[13:27:22] Client "Luftwaffe" connected.
+[13:27:29] Server is shutting down/changing levels.
+
+
+
+[13:28:01] New map: gm_construct
+[13:28:02] Client "Старый Дед" connected.
+[13:28:32] Client "natredd_" connected.
+[13:28:46] Client "Luftwaffe" connected.
+[13:28:50] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 18 seconds).
+[13:28:50] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[13:28:50] natredd_ suicided!
+[13:28:52] Client "ZELL GUTMANN" connected.
+[13:28:59] Client "??swat??" connected.
+[13:29:13] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 21 seconds).
+[13:29:20] Client "Luftwaffe" spawned in server <STEAM_0:0:541252489> (took 34 seconds).
+[13:29:20] Dropped "Luftwaffe" from server<STEAM_0:0:541252489>
+[13:29:20] Luftwaffe suicided!
+[13:29:31] Client "Уебок" connected.
+[13:29:51] Client "natredd_" connected.
+[13:30:12] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 21 seconds).
+[13:30:12] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[13:30:12] natredd_ suicided!
+[13:30:38] Client "Luftwaffe" connected.
+[13:31:01] Client "Luftwaffe" spawned in server <STEAM_0:0:541252489> (took 23 seconds).
+[13:31:01] Dropped "Luftwaffe" from server<STEAM_0:0:541252489>
+[13:31:01] Luftwaffe suicided!
+[13:31:14] Client "natredd_" connected.
+[13:31:32] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 18 seconds).
+[13:31:32] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[13:31:32] natredd_ suicided!
+[13:31:52] Client "natredd_" connected.
+[13:31:55] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 233 seconds).
+[13:32:12] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 20 seconds).
+[13:32:12] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[13:32:12] natredd_ suicided!
+[13:33:48] Client "natredd_" connected.
+[13:33:49] Client "Luftwaffe" connected.
+[13:33:55] ZELL GUTMANN переместился к Старый Дед
+[13:34:07] ZELL GUTMANN переместился к Старый Дед
+[13:34:08] Client "Ученик Алабая" connected.
+[13:34:09] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 21 seconds).
+[13:34:09] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[13:34:09] natredd_ suicided!
+[13:34:12] Client "Luftwaffe" spawned in server <STEAM_0:0:541252489> (took 23 seconds).
+[13:34:12] Dropped "Luftwaffe" from server<STEAM_0:0:541252489>
+[13:34:12] Luftwaffe suicided!
+[13:34:36] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 337 seconds).
+[13:34:36] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:34:36] ??swat?? suicided!
+[13:35:19] Client "??swat??" connected.
+[13:35:41] Client "Node" connected.
+[13:35:43] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 24 seconds).
+[13:35:43] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:35:43] ??swat?? suicided!
+[13:36:24] Старый Дед<STEAM_0:1:956402688> spawned sent ent_jack_gmod_ezcheese
+[13:36:31] Старый Дед<STEAM_0:1:956402688> spawned model models/props_borealis/bluebarrel001.mdl
+[13:36:51] (Console) добавил STEAM_0:0:639989442 в группу superadmin
+[13:36:56] Client "??swat??" connected.
+[13:37:16] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:37:16] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:37:16] ??swat?? suicided!
+[13:37:23] ZELL GUTMANN<STEAM_0:0:97018918> spawned sent prop_image_projector
+[13:38:09] ZELL GUTMANN<STEAM_0:0:97018918> spawned sent ent_fpv_drone
+[13:38:28] Старый Дед suicided!
+[13:38:35] Dropped "Старый Дед" from server<STEAM_0:1:956402688>
+[13:38:35] Старый Дед suicided!
+[13:38:41] Client "Node" connected.
+[13:38:43] Client "Старый Дед" connected.
+[13:39:26] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 43 seconds).
+[13:39:29] Dropped "ZELL GUTMANN" from server<STEAM_0:0:97018918>
+[13:39:29] ZELL GUTMANN suicided!
+[13:40:29] Client "Ученик Алабая" spawned in server <STEAM_0:0:639989442> (took 381 seconds).
+[13:41:03] Client "ZELL GUTMANN" connected.
+[13:41:24] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 21 seconds).
+[13:41:27] Старый Дед suicided!
+[13:42:07] Ученик Алабая выкинул с сервера Старый Дед (reason)
+[13:42:07] Dropped "Старый Дед" from server<STEAM_0:1:956402688>
+[13:42:07] Старый Дед suicided!
+[13:42:10] Client "Старый Дед" connected.
+[13:42:48] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 38 seconds).
+[13:42:52] Client "??swat??" connected.
+[13:43:14] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 22 seconds).
+[13:43:14] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:43:14] ??swat?? suicided!
+[13:43:40] Client "??swat??" connected.
+[13:44:00] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:44:00] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:44:00] ??swat?? suicided!
+[13:44:11] Client "??swat??" connected.
+[13:44:23] Старый Дед suicided!
+[13:44:31] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:44:31] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:44:31] ??swat?? suicided!
+[13:44:45] Client "??swat??" connected.
+[13:44:54] ZELL GUTMANN suicided!
+[13:44:54] Dropped "Ученик Алабая" from server<STEAM_0:0:639989442>
+[13:44:54] Ученик Алабая suicided!
+[13:44:59] Client "Node" connected.
+[13:45:05] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:45:05] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:45:05] ??swat?? suicided!
+[13:45:30] Client "Уебок" spawned in server <STEAM_0:0:394373578> (took 959 seconds).
+[13:45:30] Dropped "Уебок" from server<STEAM_0:0:394373578>
+[13:45:30] Уебок suicided!
+[13:45:35] Client "??swat??" connected.
+[13:45:43] Client "Node" spawned in server <STEAM_0:1:617247339> (took 44 seconds).
+[13:45:43] Dropped "Node" from server<STEAM_0:1:617247339>
+[13:45:43] Node suicided!
+[13:45:55] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:45:55] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:45:55] ??swat?? suicided!
+[13:46:08] Client "??swat??" connected.
+[13:46:27] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 19 seconds).
+[13:46:27] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:46:27] ??swat?? suicided!
+[13:47:18] ZELL GUTMANN<STEAM_0:0:97018918> spawned sent ent_jack_gmod_ezsmallbomb
+[13:48:29] Client "??swat??" connected.
+[13:48:46] Client "Бобро-Еб" connected.
+[13:48:48] ZELL GUTMANN suicided!
+[13:48:49] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:48:49] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:48:49] ??swat?? suicided!
+[13:48:55] Client "??swat??" connected.
+[13:49:15] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:49:15] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:49:15] ??swat?? suicided!
+[13:49:32] Client "??swat??" connected.
+[13:49:45] ZELL GUTMANN переместился к Старый Дед
+[13:49:53] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 21 seconds).
+[13:49:53] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:49:53] ??swat?? suicided!
+[13:50:16] Client "Бобро-Еб" spawned in server <STEAM_0:0:686441960> (took 90 seconds).
+[13:50:16] Dropped "Бобро-Еб" from server<STEAM_0:0:686441960>
+[13:50:16] Бобро-Еб suicided!
+[13:51:01] Старый Дед suicided!
+[13:51:12] Старый Дед выкинул с сервера ZELL GUTMANN (reason)
+[13:51:12] Dropped "ZELL GUTMANN" from server<STEAM_0:0:97018918>
+[13:51:12] ZELL GUTMANN suicided!
+[13:51:16] Client "ZELL GUTMANN" connected.
+[13:51:38] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 22 seconds).
+[13:52:43] Client "??swat??" connected.
+[13:53:04] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 21 seconds).
+[13:53:04] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:53:04] ??swat?? suicided!
+[13:53:17] Client "??swat??" connected.
+[13:53:18] ZELL GUTMANN suicided!
+[13:53:37] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[13:53:37] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[13:53:37] ??swat?? suicided!
+[13:53:42] ZELL GUTMANN suicided!
+[13:54:01] Client "Бобро-Еб" connected.
+[13:54:30] Client "Бобро-Еб" spawned in server <STEAM_0:0:686441960> (took 29 seconds).
+[13:54:30] Dropped "Бобро-Еб" from server<STEAM_0:0:686441960>
+[13:54:30] Бобро-Еб suicided!
+[13:54:52] Client "Бобро-Еб" connected.
+[13:54:56] Server is shutting down/changing levels.
+
+
+
+[14:01:37] New map: gm_construct
+[14:02:05] Client "Ученик Алабая" connected.
+[14:02:10] Client "??swat??" connected.
+[14:02:30] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 20 seconds).
+[14:02:30] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[14:02:30] ??swat?? suicided!
+[14:03:30] Client "Старый Дед" connected.
+[14:03:32] Client "??swat??" connected.
+[14:03:54] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 22 seconds).
+[14:03:54] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[14:03:54] ??swat?? suicided!
+[14:04:10] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 40 seconds).
+[14:04:49] Client "Ученик Алабая" spawned in server <STEAM_0:0:639989442> (took 164 seconds).
+[14:05:18] Client "ZELL GUTMANN" connected.
+[14:05:40] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 22 seconds).
+[14:05:53] Client "??swat??" connected.
+[14:05:55] Ученик Алабая сменил карту на gm_bigcity_improved_rp
+[14:05:56] Server is shutting down/changing levels.
+
+
+
+[14:06:04] New map: gm_bigcity_improved_rp
+[14:06:34] Client "ZELL GUTMANN" spawned in server <STEAM_0:0:97018918> (took 35 seconds).
+[14:06:44] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 45 seconds).
+[14:07:00] ZELL GUTMANN переместился к ??swat??
+[14:07:35] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 96 seconds).
+[14:07:36] ZELL GUTMANN добавил ??swat?? в группу dadmin
+[14:07:56] ZELL GUTMANN переместился к Старый Дед
+[14:07:58] Client "Ученик Алабая" spawned in server <STEAM_0:0:639989442> (took 119 seconds).
+[14:08:41] Dropped "ZELL GUTMANN" from server<STEAM_0:0:97018918>
+[14:08:41] ZELL GUTMANN suicided!
+[14:09:29] Client "natredd_" connected.
+[14:09:38] ??swat?? переместился к Ученик Алабая
+[14:09:40] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_bati801
+[14:10:09] Ученик Алабая привел к ??swat??
+[14:10:14] ??swat?? suicided!
+[14:10:19] Старый Дед переместился к ??swat??
+[14:10:42] Client "natredd_" spawned in server <STEAM_0:0:47887557> (took 73 seconds).
+[14:11:19] ??swat??<STEAM_0:1:31208038> spawned sent l4d_racecar
+[14:11:52] Client "shadow_beer" connected.
+[14:11:56] natredd_ suicided!
+[14:12:54] natredd_ suicided!
+[14:13:06] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_bati801
+[14:13:11] ??swat?? переместился к Ученик Алабая
+[14:13:12] ??swat?? переместился к Старый Дед
+[14:13:14] Client "Oliver" connected.
+[14:13:32] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:13:44] Старый Дед suicided!
+[14:13:45] natredd_ suicided!
+[14:13:53] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:13:53] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:13:54] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:14:33] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:14:44] natredd_ suicided!
+[14:14:50] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezbigbomb
+[14:15:19] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_big
+[14:15:32] natredd_<STEAM_0:0:47887557> spawned model models/props_c17/fence03a.mdl
+[14:15:48] Client "unreall0" connected.
+[14:16:44] ??swat?? suicided!
+[14:17:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterminebomb
+[14:17:15] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:17:32] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:17:33] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:17:33] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:17:34] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:17:42] Client "Бобро-Еб" connected.
+[14:18:07] Старый Дед переместился к Ученик Алабая
+[14:18:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:18:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:18:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:18:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:18:24] natredd_ suicided!
+[14:18:28] Старый Дед suicided!
+[14:18:34] Client "Бобро-Еб" spawned in server <STEAM_0:0:686441960> (took 52 seconds).
+[14:18:41] natredd_ suicided!
+[14:18:56] natredd_<STEAM_0:0:47887557> spawned sent ent_armor_vest5
+[14:19:01] natredd_<STEAM_0:0:47887557> spawned sent ent_armor_headphones1
+[14:19:02] natredd_<STEAM_0:0:47887557> spawned sent ent_armor_helmet7
+[14:19:34] Ученик Алабая suicided!
+[14:19:34] Старый Дед suicided!
+[14:19:55] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_helmet7
+[14:19:56] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_vest5
+[14:19:56] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_headphones1
+[14:20:02] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:02] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:02] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:02] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:18] Старый Дед переместился к Ученик Алабая
+[14:20:22] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:22] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:22] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezclusterbuster
+[14:20:47] natredd_ suicided!
+[14:20:49] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznavalmine
+[14:20:57] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezdetpack
+[14:21:01] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:21:02] natredd_ suicided!
+[14:21:11] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezthermobaricbomb
+[14:21:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezincendiarybomb
+[14:21:15] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezmoab
+[14:21:34] ??swat?? suicided!
+[14:21:45] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_small
+[14:21:45] Старый Дед переместился к Ученик Алабая
+[14:22:08] natredd_<STEAM_0:0:47887557> spawned sent sleepnik
+[14:22:12] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_small
+[14:22:16] Dropped "Ученик Алабая" from server<STEAM_0:0:639989442>
+[14:22:16] Ученик Алабая suicided!
+[14:22:17] natredd_ suicided!
+[14:22:20] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_small
+[14:22:43] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_small
+[14:22:47] natredd_ suicided!
+[14:22:56] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztorpedo
+[14:23:06] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:23:11] Бобро-Еб suicided!
+[14:23:14] Старый Дед suicided!
+[14:23:24] Бобро-Еб suicided!
+[14:23:25] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:23:38] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:23:51] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:23:59] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:24:05] Бобро-Еб suicided!
+[14:24:06] natredd_ suicided!
+[14:24:13] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:24:23] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:24:41] natredd_ suicided!
+[14:24:46] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezmoab
+[14:24:47] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke
+[14:24:53] natredd_ suicided!
+[14:24:54] Бобро-Еб suicided!
+[14:24:55] ??swat?? suicided!
+[14:25:17] Старый Дед переместился к ??swat??
+[14:25:21] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztorpedo
+[14:25:24] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezhebomb
+[14:25:29] natredd_ suicided!
+[14:25:43] Старый Дед выполнил retry у игрока ??swat??
+[14:25:43] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[14:25:43] ??swat?? suicided!
+[14:25:44] Client "??swat??" connected.
+[14:26:05] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 21 seconds).
+[14:26:12] natredd_ suicided!
+[14:26:28] Старый Дед добавил Бобро-Еб в группу admin
+[14:26:46] ??swat?? suicided!
+[14:26:52] natredd_ suicided!
+[14:27:02] ??swat??<STEAM_0:1:31208038> spawned sent prop_image_projector
+[14:27:58] ??swat??<STEAM_0:1:31208038> spawned sent ent_fpv_drone
+[14:28:10] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztnt
+[14:28:32] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezatmine
+[14:28:40] ??swat?? suicided!
+[14:28:48] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezwarmine
+[14:29:13] ??swat?? suicided!
+[14:29:13] natredd_ suicided!
+[14:29:20] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezboundingmine
+[14:29:41] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezboundingmine
+[14:29:50] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezstickynade
+[14:30:06] natredd_ suicided!
+[14:30:53] Старый Дед suicided!
+[14:31:41] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_vest5
+[14:31:42] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_helmet7
+[14:31:43] Старый Дед переместился к Бобро-Еб
+[14:31:44] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztimebomb
+[14:31:44] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_headphones1
+[14:31:46] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_mask1
+[14:31:49] Старый Дед переместился к Бобро-Еб
+[14:31:56] Старый Дед переместился к Бобро-Еб
+[14:32:20] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezsticknade
+[14:32:21] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezstickynade
+[14:32:26] Бобро-Еб suicided!
+[14:32:31] Старый Дед suicided!
+[14:32:54] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_mask1
+[14:32:55] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_headphones1
+[14:32:55] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_helmet7
+[14:32:57] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_armor_vest5
+[14:32:58] ??swat?? suicided!
+[14:32:58] natredd_ suicided!
+[14:34:35] natredd_ suicided!
+[14:35:08] natredd_ suicided!
+[14:35:34] Бобро-Еб suicided!
+[14:35:58] Dropped "natredd_" from server<STEAM_0:0:47887557>
+[14:35:58] natredd_ suicided!
+[14:36:04] Бобро-Еб suicided!
+[14:37:03] Client "shadow_beer" spawned in server <STEAM_0:0:603259079> (took 1511 seconds).
+[14:37:33] ??swat?? suicided!
+[14:37:33] Бобро-Еб exploded ??swat??
+[14:37:35] ??swat?? suicided!
+[14:37:35] Бобро-Еб exploded ??swat??
+[14:37:40] Старый Дед переместился к ??swat??
+[14:37:52] ??swat?? suicided!
+[14:37:52] Бобро-Еб exploded ??swat??
+[14:38:33] Старый Дед<STEAM_0:1:956402688> spawned sent bomb
+[14:38:43] ??swat??<STEAM_0:1:31208038> spawned sent ent_armor_vest5
+[14:38:45] ??swat??<STEAM_0:1:31208038> spawned sent ent_armor_helmet1
+[14:38:47] ??swat??<STEAM_0:1:31208038> spawned sent ent_armor_helmet2
+[14:38:54] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezlandmine
+[14:39:25] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezboundingmine
+[14:39:32] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezboundingmine
+[14:39:38] shadow_beer suicided!
+[14:39:49] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznade_impact
+[14:40:01] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznade_impact
+[14:40:15] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztimebomb
+[14:40:30] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eztimebomb
+[14:40:43] ??swat?? suicided!
+[14:41:01] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_ezsatchelcharge
+[14:41:27] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznuke_small
+[14:41:31] ??swat??<STEAM_0:1:31208038> spawned sent ent_jack_gmod_eznade_timed
+[14:42:41] ??swat??<STEAM_0:1:31208038> spawned sent glide_gtav_akula
+[14:42:46] ??swat??<STEAM_0:1:31208038> spawned sent glide_gtav_hunter
+[14:43:46] Dropped "shadow_beer" from server<STEAM_0:0:603259079>
+[14:43:46] shadow_beer suicided!
+[14:44:53] Старый Дед сменил карту на gm_novenka
+[14:44:53] Server is shutting down/changing levels.
+
+
+
+[14:45:00] New map: gm_novenka
+[14:45:41] Client "Бобро-Еб" spawned in server <STEAM_0:0:686441960> (took 45 seconds).
+[14:45:57] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 61 seconds).
+[14:45:58] Client "??swat??" spawned in server <STEAM_0:1:31208038> (took 62 seconds).
+[14:46:10] Dropped "??swat??" from server<STEAM_0:1:31208038>
+[14:46:10] ??swat?? suicided!
+[14:46:51] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezimpactnade
+[14:46:58] Старый Дед<STEAM_0:1:956402688> spawned sent ent_fpv_drone
+[14:46:59] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezimpactnade
+[14:47:05] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezimpactnade
+[14:47:24] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_fpv_drone
+[14:48:05] Бобро-Еб suicided!
+[14:49:57] Бобро-Еб переместился к Старый Дед
+[14:50:01] Бобро-Еб: !menu 
+[14:50:30] Старый Дед suicided!
+[14:53:22] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_fpv_drone
+[14:54:46] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_fpv_drone
+[14:55:14] Client "zaza1337" connected.
+[14:56:03] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezanomaly_gnome
+[14:56:11] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezcheese
+[14:56:22] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_aidbox
+[14:56:36] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_jack_gmod_ezfieldhospital
+[14:59:36] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_fpv_drone
+[15:00:15] Бобро-Еб<STEAM_0:0:686441960> spawned sent ent_fpv_drone
+[15:01:03] Старый Дед переместился к Бобро-Еб
+[15:01:11] Старый Дед<STEAM_0:1:956402688> spawned sent ent_fpv_drone
+[15:02:00] Старый Дед suicided!
+[15:02:07] Client "zaza1337" spawned in server <STEAM_0:0:933219902> (took 413 seconds).
+[15:04:31] zaza1337 suicided!
+[15:05:38] Client "benjamin.gamermason.2016" connected.
+[15:06:12] zaza1337 suicided!
+[15:06:22] Старый Дед suicided!
+[15:06:32] zaza1337 suicided!
+[15:06:39] Бобро-Еб предоставил режим бога Themself
+[15:06:47] zaza1337 suicided!
+[15:06:55] Бобро-Еб предоставил режим бога Themself
+[15:06:55] Бобро-Еб предоставил режим бога Themself
+[15:06:56] Бобро-Еб предоставил режим бога Themself
+[15:06:56] Бобро-Еб предоставил режим бога Themself
+[15:07:15] zaza1337 suicided!
+[15:07:26] Старый Дед добавил Бобро-Еб в группу Operator
+[15:07:54] Старый Дед добавил Бобро-Еб в группу admin
+[15:09:01] Старый Дед начал голосование за gm_bigcity_improved_rp
+[15:09:03] Бобро-Еб голосует за Нет
+[15:09:05] Старый Дед голосует за Да
+[15:09:05] zaza1337 голосует за Нет
+[15:09:05] Результат: голосование не состоялось.
+[15:09:11] Старый Дед сменил карту на gm_bigcity_improved_rp
+[15:09:11] Server is shutting down/changing levels.
+
+
+
+[15:09:18] New map: gm_bigcity_improved_rp
+[15:10:22] Client "Старый Дед" spawned in server <STEAM_0:1:956402688> (took 68 seconds).
+[15:11:02] Client "zaza1337" spawned in server <STEAM_0:0:933219902> (took 108 seconds).
+[15:12:25] zaza1337 suicided!
+[15:12:30] zaza1337 suicided!
+[15:13:03] zaza1337 suicided!
+[15:13:23] Старый Дед переместился к zaza1337
+[15:14:18] zaza1337 suicided!
+[15:14:26] zaza1337 suicided!
+[15:14:37] zaza1337<STEAM_0:0:933219902> spawned sent ent_armor_helmet5
+[15:14:39] zaza1337<STEAM_0:0:933219902> spawned sent ent_armor_vest1
+[15:14:40] zaza1337<STEAM_0:0:933219902> spawned sent ent_armor_helmet5
+[15:14:44] zaza1337<STEAM_0:0:933219902> spawned sent obj_npcroute
+[15:14:51] zaza1337<STEAM_0:0:933219902> spawned sent ent_jack_gmod_ezfirework
+[15:14:52] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_bati801
+[15:14:56] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_airbus
+[15:14:58] zaza1337<STEAM_0:0:933219902> spawned sent prop_image_projector
+[15:15:37] zaza1337<STEAM_0:0:933219902> spawned sent wac_glide_ah6
+[15:18:01] zaza1337 suicided!
+[15:18:07] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_bati801
+[15:18:48] Старый Дед suicided!
+[15:20:24] zaza1337 suicided!
+[15:20:28] zaza1337 suicided!
+[15:22:07] zaza1337 suicided!
+[15:23:55] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_speedo
+[15:23:58] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_wolfsbane
+[15:23:58] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_speedo
+[15:24:28] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.50bmg
+[15:24:30] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.22longrifle
+[15:24:33] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.277fury
+[15:24:35] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.300aacblackout
+[15:26:02] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.50bmg
+[15:26:06] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_.22longrifle
+[15:26:20] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_12.7x108mm
+[15:26:27] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_7.92x57mmmauser
+[15:26:29] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_9.3x64mmbrenneke
+[15:26:33] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_5.56x45mm
+[15:26:35] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_7.62x51mm
+[15:26:42] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_5.66x120steeldarts
+[15:26:43] Старый Дед<STEAM_0:1:956402688> spawned sent ent_ammo_4.6x30mm
+[15:27:29] Старый Дед<STEAM_0:1:956402688> spawned sent gtav_speedo
+[15:28:15] Dropped "zaza1337" from server<STEAM_0:0:933219902>
+[15:28:15] zaza1337 suicided!

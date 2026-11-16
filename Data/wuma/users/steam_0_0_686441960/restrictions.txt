@@ -1,0 +1,1 @@
+{"swep_weapon_piss":{"type":"swep","print":"weapon_piss","string":"weapon_piss"}}

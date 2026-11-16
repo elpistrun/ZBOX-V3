@@ -1,0 +1,150 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199309742961</steamID64>
+	<steamID><![CDATA[Mett_Menheck]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/3090a6bc262f3571b2999ff1974c4cd4cd5905e6.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/3090a6bc262f3571b2999ff1974c4cd4cd5905e6_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/3090a6bc262f3571b2999ff1974c4cd4cd5905e6_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>June 1, 2022</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>90.7</hoursPlayed>
+			<hoursOnRecord>3,442</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[SteamVR]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/250820]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/250820/7f286d5ee22905b51663e0cea505e1c2f7500f36.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250820/capsule_184x69.jpg?t=1574723957]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250820/capsule_184x69.jpg?t=1574723957]]></gameLogoSmall>
+			<hoursPlayed>12.6</hoursPlayed>
+			<hoursOnRecord>181</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Team Fortress 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/440]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/440/f568912870a4684f9ec76277a1a404dda6bab213.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1757348372]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1757348372]]></gameLogoSmall>
+			<hoursPlayed>11.1</hoursPlayed>
+			<hoursOnRecord>290</hoursOnRecord>
+			<statsName><![CDATA[TF2]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Gladio Mori]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/2689120]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/2689120/f05eda54a6f3b81a6f2a2d990a0b7a19351bbe44.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/009064016cba039dd2e1bc6f0dd8011540962e0c/capsule_184x69.jpg?t=1779269195]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/009064016cba039dd2e1bc6f0dd8011540962e0c/capsule_184x69.jpg?t=1779269195]]></gameLogoSmall>
+			<hoursPlayed>9.6</hoursPlayed>
+			<hoursOnRecord>9.6</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Hot Dogs, Horseshoes &amp; Hand Grenades]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/450540]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/450540/38bff8ba5cf105f0e813f9dacc0e524482827ccd.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450540/capsule_184x69.jpg?t=1766512842]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450540/capsule_184x69.jpg?t=1766512842]]></gameLogoSmall>
+			<hoursPlayed>2.8</hoursPlayed>
+			<hoursOnRecord>2.8</hoursOnRecord>
+			<statsName><![CDATA[450540]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[OBS Studio]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1905180]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1905180/b030cbb319718e6e06ce707ae564e0dd6e560735.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogoSmall>
+			<hoursPlayed>2.3</hoursPlayed>
+			<hoursOnRecord>346</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791447777891</groupID64>
+			<groupName><![CDATA[PostBellum RP | Civil Protection]]></groupName>
+			<groupURL><![CDATA[PostBellumCP]]></groupURL>
+			<headline><![CDATA[Гражданская оборона]]></headline>
+			<summary><![CDATA[Данная группа создана для игроков играющих за Альянс на сервере &quot;PostBellum RP&quot;. В группе могут находится лишь люди имеющие отношение к фракциям &quot;Альянса&quot;, остальным вход в группу запрещён.<br><br>В Объявлениях группы публикуются новости фракции. Вся основная актуальная информация находиться в обсуждениях.<br><br><div class="bb_code"> 
+<div class="bb_code"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpostbellum.ru" target="_blank" rel=" noopener" > Официальный форум сервера </a><span class="bb_link_host">[postbellum.ru]</span>
+</div></div>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/342c9e563c8f20e73afb2524cfb154ad76c23ca0.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/342c9e563c8f20e73afb2524cfb154ad76c23ca0_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/342c9e563c8f20e73afb2524cfb154ad76c23ca0_full.jpg]]></avatarFull>
+			<memberCount>177</memberCount>
+			<membersInChat>140</membersInChat>
+			<membersInGame>16</membersInGame>
+			<membersOnline>72</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791463504794</groupID64>
+			<groupName><![CDATA[GambitRP]]></groupName>
+			<groupURL><![CDATA[GambitRP_Grp]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_full.jpg]]></avatarFull>
+			<memberCount>28123</memberCount>
+			<membersInChat>4154</membersInChat>
+			<membersInGame>1493</membersInGame>
+			<membersOnline>5376</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791472460317</groupID64>
+			<groupName><![CDATA[Beatrun Demo]]></groupName>
+			<groupURL><![CDATA[beatrun_demo]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/7432e281500ecaae6d883a2c687092c449e61521.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/7432e281500ecaae6d883a2c687092c449e61521_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/7432e281500ecaae6d883a2c687092c449e61521_full.jpg]]></avatarFull>
+			<memberCount>16552</memberCount>
+			<membersInChat>3475</membersInChat>
+			<membersInGame>984</membersInGame>
+			<membersOnline>4942</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791475193640</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			8996,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 12:28:10 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2184",
+			Last-Modified	=	"Tue, 23 Jun 2026 11:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 11:28:10 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

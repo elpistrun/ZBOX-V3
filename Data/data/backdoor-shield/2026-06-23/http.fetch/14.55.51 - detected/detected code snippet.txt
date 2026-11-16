@@ -1,0 +1,72 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199178588036</steamID64>
+	<steamID><![CDATA[професор ротовой]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/600a54e62405d2696730eabca74233adfd9aea7e.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/600a54e62405d2696730eabca74233adfd9aea7e_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/600a54e62405d2696730eabca74233adfd9aea7e_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>June 9, 2021</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Kremenchuk, Poltavs'ka Oblast', Ukraine]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791463600727</groupID64>
+			<groupName><![CDATA[ROBOTAIM]]></groupName>
+			<groupURL><![CDATA[ROBOTAIM]]></groupURL>
+			<headline><![CDATA[ONLY FOR PEOPLE WHO AIM LIKE ROBOTS]]></headline>
+			<summary><![CDATA[<a class="bb_link" href="http://youtube.com/@FURI" target="_blank" rel="" > YouTube </a><br><a class="bb_link" href="http://twitter.com/furiousss" target="_blank" rel="" > Twitter </a><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Ftwitch.tv%2Ffuri" target="_blank" rel=" noopener" > Twitch </a><span class="bb_link_host">[twitch.tv]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Finstagram.com%2Ffurioussscsgo" target="_blank" rel=" noopener" > Instagram </a><span class="bb_link_host">[instagram.com]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Ffuri" target="_blank" rel=" noopener" > OUR DISCORD SERVER </a><span class="bb_link_host">[discord.gg]</span><br><br>I BUY SKINS, SEND ME <a class="bb_link" href="https://steamcommunity.com/tradeoffer/new/?partner=186572520&amp;token=nySObBxo" target="_blank" rel="" > TRADE OFFERS </a> <br>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/48daea422182856248ec31279a542854860cdf32.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/48daea422182856248ec31279a542854860cdf32_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/48daea422182856248ec31279a542854860cdf32_full.jpg]]></avatarFull>
+			<memberCount>242080</memberCount>
+			<membersInChat>13321</membersInChat>
+			<membersInGame>5879</membersInGame>
+			<membersOnline>27149</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791471552869</groupID64>
+			<groupName><![CDATA[TER_OBORONA]]></groupName>
+			<groupURL><![CDATA[TER_OBORONA]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/686ba415cfb813783c27c993bd7eafdc98d5a981.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/686ba415cfb813783c27c993bd7eafdc98d5a981_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/686ba415cfb813783c27c993bd7eafdc98d5a981_full.jpg]]></avatarFull>
+			<memberCount>35886</memberCount>
+			<membersInChat>6649</membersInChat>
+			<membersInGame>1431</membersInGame>
+			<membersOnline>5398</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			3780,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 12:55:49 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1214",
+			Last-Modified	=	"Tue, 23 Jun 2026 11:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 11:55:50 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

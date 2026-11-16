@@ -1,0 +1,172 @@
+{
+	"nigger": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776274910
+		},
+		"ammo": {
+			"84": 121
+		},
+		"activeWeapon": "weapon_fury13",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"head": "helmet10"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_scarh",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": {
+							"1": "laser5",
+							"3": []
+						},
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fury13",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"rpg": {
+		"meta": {
+			"savedAt": 1776276462,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"84": 121,
+			"108": 3
+		},
+		"activeWeapon": "weapon_hg_rebelrpg",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_rebelrpg",
+				"clip1": 0,
+				"info": [
+					0,
+					{
+						"underbarrel": [
+							"laserrpg0"
+						],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_flashbang_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"head": "helmet10"
+		},
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	},
+	"asd": {
+		"meta": {
+			"savedAt": 1776182800,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"84": 44
+		},
+		"activeWeapon": "weapon_scarh",
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_scarh",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": {
+							"1": "laser5",
+							"3": []
+						},
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"ironsight1"
+		]
+	}
+}

@@ -1,0 +1,517 @@
+{
+	"snip": {
+		"meta": {
+			"savedAt": 1776588313,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 199
+		},
+		"activeWeapon": "weapon_rsass",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_rsass",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_rgd_tpik",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": [
+			"grip_akdong",
+			"grip1",
+			"grip3",
+			"supressor11",
+			"supressor8",
+			"supressor1",
+			"supressor3",
+			"supressor3",
+			"supressor6",
+			"supressor4",
+			"supressor9",
+			"mag1",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"holo7",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser1",
+			"supressor5",
+			"ironsight1",
+			"supressor2",
+			"optic8",
+			"laser5",
+			"ironsight1"
+		]
+	},
+	"sss": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776587308
+		},
+		"ammo": {
+			"76": 199
+		},
+		"activeWeapon": "weapon_lr300",
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_lr300",
+				"clip1": 27,
+				"info": [
+					27,
+					{
+						"underbarrel": {
+							"1": "laser5",
+							"3": []
+						},
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"optic8",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_rgd_tpik",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": [
+			"grip2",
+			"grip_akdong",
+			"grip1",
+			"grip3",
+			"supressor11",
+			"supressor7",
+			"supressor8",
+			"supressor1",
+			"supressor3",
+			"supressor3",
+			"supressor6",
+			"supressor4",
+			"supressor9",
+			"mag1",
+			"optic6",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"holo7",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser4",
+			"laser1",
+			"supressor5",
+			"ironsight1"
+		]
+	},
+	"aaaa": {
+		"meta": {
+			"savedAt": 1776598706,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 199,
+			"81": 161
+		},
+		"activeWeapon": "weapon_ak203",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_glock18c",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 29,
+				"info": [
+					29,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo7",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest7",
+			"head": "helmet13"
+		},
+		"inventoryAttachments": [
+			"grip2",
+			"grip_akdong",
+			"grip3",
+			"supressor11",
+			"supressor7",
+			"supressor8",
+			"supressor3",
+			"supressor3",
+			"supressor9",
+			"mag1",
+			"optic6",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser1",
+			"supressor5",
+			"ironsight1",
+			"supressor2",
+			"optic8",
+			"laser5",
+			"supressor6",
+			"laser4"
+		]
+	},
+	"ak": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776595656
+		},
+		"ammo": {
+			"76": 199
+		},
+		"activeWeapon": "weapon_ak203",
+		"armor": {
+			"torso": "vest18",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 28,
+				"info": [
+					28,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo7",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_glock18c",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"grip2",
+			"grip_akdong",
+			"grip3",
+			"supressor11",
+			"supressor7",
+			"supressor8",
+			"supressor3",
+			"supressor3",
+			"supressor9",
+			"mag1",
+			"optic6",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser1",
+			"supressor5",
+			"ironsight1",
+			"supressor2",
+			"optic8",
+			"laser5",
+			"supressor6"
+		]
+	},
+	"ak3": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776595841
+		},
+		"ammo": {
+			"81": 200,
+			"76": 199
+		},
+		"activeWeapon": "weapon_ak203",
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_glock18c",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 28,
+				"info": [
+					28,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo7",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"grip2",
+			"grip_akdong",
+			"grip3",
+			"supressor11",
+			"supressor7",
+			"supressor8",
+			"supressor3",
+			"supressor3",
+			"supressor9",
+			"mag1",
+			"optic6",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser1",
+			"supressor5",
+			"ironsight1",
+			"supressor2",
+			"optic8",
+			"laser5",
+			"supressor6",
+			"laser4"
+		]
+	},
+	"ak2": {
+		"meta": {
+			"savedAt": 1776595673,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 199
+		},
+		"activeWeapon": "weapon_ak203",
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 28,
+				"info": [
+					28,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo7",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_glock18c",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"grip2",
+			"grip_akdong",
+			"grip3",
+			"supressor11",
+			"supressor7",
+			"supressor8",
+			"supressor3",
+			"supressor3",
+			"supressor9",
+			"mag1",
+			"optic6",
+			"optic13",
+			"optic7",
+			"optic9",
+			"holo4",
+			"optic11",
+			"laser2",
+			"laser3",
+			"laser1",
+			"supressor5",
+			"ironsight1",
+			"supressor2",
+			"optic8",
+			"laser5",
+			"supressor6",
+			"laser4"
+		]
+	}
+}

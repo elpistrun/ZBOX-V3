@@ -1,0 +1,471 @@
+{
+	"snaiiper_kust_zeleniy": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776793234
+		},
+		"ammo": {
+			"46": 14,
+			"84": 9
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest10",
+			"ears": "headphones3",
+			"head": "helmet14"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dvl10_eft",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m1911",
+				"clip1": 7,
+				"info": [
+					7,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_crapvidcam",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"snaiiper_kust_orange": {
+		"meta": {
+			"savedAt": 1776793322,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"46": 14,
+			"84": 9
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dvl10_eft",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m1911",
+				"clip1": 7,
+				"info": [
+					7,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_crapvidcam",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit2"
+		],
+		"armor": {
+			"torso": "vest10",
+			"ears": "headphones3",
+			"head": "helmet14"
+		},
+		"inventoryAttachments": []
+	},
+	"pkm+bronya+gm_fork": {
+		"meta": {
+			"savedAt": 1776594106,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"86": 131
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_pkm",
+				"clip1": 100,
+				"info": [
+					100,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest10",
+			"ears": "headphones3",
+			"head": "helmet15"
+		},
+		"inventoryAttachments": []
+	},
+	"pkm+bronya+desert": {
+		"meta": {
+			"savedAt": 1776594071,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"86": 131
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"torso": "vest1",
+			"ears": "headphones3",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_pkm",
+				"clip1": 100,
+				"info": [
+					100,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"pilot": {
+		"meta": {
+			"savedAt": 1776530792,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"95": 47
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones3",
+			"back": "parachute1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_p250",
+				"clip1": 18,
+				"info": [
+					18,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "flaregun_homigrad",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"snaiiper_desert": {
+		"meta": {
+			"savedAt": 1776793080,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"46": 14,
+			"84": 9
+		},
+		"activeWeapon": "weapon_m1911",
+		"clothes": [],
+		"armor": {
+			"torso": "vest18",
+			"ears": "headphones3",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dvl10_eft",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m1911",
+				"clip1": 7,
+				"info": [
+					7,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"snaiiper_zelenii": {
+		"meta": {
+			"savedAt": 1776793171,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"46": 14,
+			"84": 9
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"torso": "vest10",
+			"ears": "headphones3",
+			"head": "helmet14"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dvl10_eft",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_walkie_talkie",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m1911",
+				"clip1": 7,
+				"info": [
+					7,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_crapvidcam",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"grazdanski+pistol": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776445078
+		},
+		"ammo": {
+			"46": 13
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"ears": "headphones3",
+			"torso": "vest9",
+			"head": "helmet1"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m1911",
+				"clip1": 8,
+				"info": [
+					8,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor4",
+							"3": []
+						},
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	}
+}

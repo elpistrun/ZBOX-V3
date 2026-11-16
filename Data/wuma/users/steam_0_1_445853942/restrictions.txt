@@ -1,0 +1,1 @@
+{"swep_weapon_taser":{"type":"swep","print":"weapon_taser","string":"weapon_taser"}}

@@ -1,0 +1,41 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199627301466</steamID64>
+	<steamID><![CDATA[Kamikadze27]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/b92611e26ea1f25f9a82ab01ed1c26da8cb055a9.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/b92611e26ea1f25f9a82ab01ed1c26da8cb055a9_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/b92611e26ea1f25f9a82ab01ed1c26da8cb055a9_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>January 29, 2024</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[Анатолий]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/steamsalty" alt=":steamsalty:" class="emoticon">Информация отсутствует.]]></summary>
+
+
+</profile>
+",
+			1271,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 07:22:18 GMT",
+			Content-Length	=	"613",
+			Last-Modified	=	"Tue, 23 Jun 2026 06:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 06:22:18 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

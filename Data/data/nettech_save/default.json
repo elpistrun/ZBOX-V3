@@ -1,0 +1,136 @@
+{
+	"version": "5.0 Realistic Network Stack",
+	"connections": [
+		{
+			"aPort": 1,
+			"bPort": 1,
+			"a": "Router-001",
+			"b": "челябенская электростанция"
+		}
+	],
+	"devices": [
+		{
+			"staticRoutes": [],
+			"firewall": [],
+			"portModes": [
+				"access"
+			],
+			"mac": "B3:E6:68:D7:30:39",
+			"mask": "челябенская электростанция",
+			"dhcp": false,
+			"portVLANs": [
+				1
+			],
+			"dns": "192.168.1.1",
+			"powered": true,
+			"class": "ent_net_pc",
+			"dnsRecords": [],
+			"vpn": [],
+			"qos": [],
+			"leases": [],
+			"name": "челябенская электростанция",
+			"nat": false,
+			"gw": "",
+			"dhcpConfig": [],
+			"wan": [],
+			"ip": ""
+		},
+		{
+			"staticRoutes": [],
+			"firewall": [],
+			"portModes": [
+				"access",
+				"access",
+				"access",
+				"access",
+				"access",
+				"access",
+				"access",
+				"access"
+			],
+			"mac": "F6:BF:CC:1F:95:6A",
+			"mask": "Router-001",
+			"dhcp": true,
+			"portVLANs": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"dns": "",
+			"powered": true,
+			"class": "ent_net_router",
+			"dnsRecords": {
+				"router-001": "192.168.1.1",
+				"router-001.lan": "192.168.1.1",
+				"челебянская-электростанция.lan": "192.168.1.100",
+				"челебянская электростанция": "192.168.1.100"
+			},
+			"vpn": [],
+			"qos": {
+				"classes": {
+					"dns": {
+						"priority": 2,
+						"lossBonus": 0,
+						"extraDelay": 0.0003
+					},
+					"icmp": {
+						"priority": 1,
+						"lossBonus": 0,
+						"extraDelay": 0.0008
+					},
+					"vpn": {
+						"priority": 2,
+						"lossBonus": 0,
+						"extraDelay": 0.0012
+					},
+					"bulk": {
+						"priority": 0,
+						"lossBonus": 0.01,
+						"extraDelay": 0.003
+					},
+					"default": {
+						"priority": 1,
+						"lossBonus": 0,
+						"extraDelay": 0.0015
+					}
+				},
+				"enabled": true
+			},
+			"leases": {
+				"B3:E6:68:D7:30:39": {
+					"ip": "192.168.1.100",
+					"name": "челебянская электростанция",
+					"expiresAt": 5917.760986328125
+				}
+			},
+			"name": "Router-001",
+			"nat": true,
+			"gw": "",
+			"dhcpConfig": {
+				"dns": "192.168.1.1",
+				"excluded": [],
+				"reservations": [],
+				"gateway": "192.168.1.1",
+				"leaseTime": 3600,
+				"mask": "",
+				"enabled": true,
+				"poolEnd": "192.168.1.200",
+				"poolStart": "192.168.1.100"
+			},
+			"wan": {
+				"dns": "8.8.8.8",
+				"ip": "203.0.113.77",
+				"mask": "255.255.255.0",
+				"enabled": true,
+				"up": true,
+				"gateway": "203.0.113.1"
+			},
+			"ip": "192.168.1.1"
+		}
+	]
+}

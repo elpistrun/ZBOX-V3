@@ -1,0 +1,3165 @@
+
+[Backdoor Shield] Execution blocked!
+    Date & time: 2026-06-22 | 23h 12m 49s
+    Location: lua/gdisc/g_chat.lua
+    Function: http.Fetch
+    Trying to call:
+        Ban
+    Url: https://steamcommunity.com/profiles/76561198724286347?xml=1
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.12.49 - detected/
+    Log Contents: 
+        Detected code snippet
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Fetch'
+	addons/!gdiscord/lua/gdisc/g_chat.lua:36: in function 'fn'
+	lua/ulib/shared/hook.lua:115: in function <lua/ulib/shared/hook.lua:98>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 17m 03s
+    Location: lua/homigrad/sh_physhandler.lua
+    Function: http.Fetch
+    Trying to call:
+        hook.Add
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.17.03 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Add'
+	addons/homigrad/lua/homigrad/sh_physhandler.lua:57: in main chunk
+	[C]: in function 'include'
+	addons/homigrad/lua/autorun/loader.lua:44: in function 'AddFile'
+	addons/homigrad/lua/autorun/loader.lua:62: in function 'IncludeDir'
+	addons/homigrad/lua/autorun/loader.lua:78: in function 'Run'
+	addons/homigrad/lua/autorun/loader.lua:91: in main chunk
+
+[Backdoor Shield] Execution blocked!
+    Date & time: 2026-06-22 | 23h 24m 10s
+    Location: lua/gdisc/g_chat.lua
+    Function: http.Fetch
+    Trying to call:
+        Ban
+    Url: https://steamcommunity.com/profiles/76561199049707488?xml=1
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.24.10 - detected/
+    Log Contents: 
+        Detected code snippet
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Fetch'
+	addons/!gdiscord/lua/gdisc/g_chat.lua:36: in function 'fn'
+	lua/ulib/shared/hook.lua:115: in function <lua/ulib/shared/hook.lua:98>
+
+[Backdoor Shield] Execution blocked!
+    Date & time: 2026-06-22 | 23h 25m 42s
+    Location: lua/gdisc/g_chat.lua
+    Function: http.Fetch
+    Trying to call:
+        Ban
+    Url: https://steamcommunity.com/profiles/76561199550916399?xml=1
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.25.42 - detected/
+    Log Contents: 
+        Detected code snippet
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Fetch'
+	addons/!gdiscord/lua/gdisc/g_chat.lua:36: in function 'fn'
+	lua/ulib/shared/hook.lua:115: in function <lua/ulib/shared/hook.lua:98>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 27m 24s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.27.24 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 28m 38s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.28.38 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 29m 30s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.29.30 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 30m 47s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.30.47 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Execution blocked!
+    Date & time: 2026-06-22 | 23h 31m 27s
+    Location: lua/gdisc/g_chat.lua
+    Function: http.Fetch
+    Trying to call:
+        Ban
+    Url: https://steamcommunity.com/profiles/76561199008386040?xml=1
+    Log Folder: data/backdoor-shield/2026-06-22/http.Fetch/23.31.27 - detected/
+    Log Contents: 
+        Detected code snippet
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Fetch'
+	addons/!gdiscord/lua/gdisc/g_chat.lua:36: in function 'fn'
+	lua/ulib/shared/hook.lua:115: in function <lua/ulib/shared/hook.lua:98>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 33m 43s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.33.43 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_13/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_14/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 12s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.12 - detected_15/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 13s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.13 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 13s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.13 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 13s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.13 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 13s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.13 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 13s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.13 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 14s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.14 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 14s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.14 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 14s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.14 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 14s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.14 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 15s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.15 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 16s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.16 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_13/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_14/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_15/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 17s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.17 - detected_16/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_13/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 18s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.18 - detected_14/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_13/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 19s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.19 - detected_14/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 20s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.20 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_12/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_13/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_14/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 21s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.21 - detected_15/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 22s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.22 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 23s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.23 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 24s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.24 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_2/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_3/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_4/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_5/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_6/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_7/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_8/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_9/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_10/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 25s
+    Location: lua/3dsky_off.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.25 - detected_11/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_off.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#671:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>

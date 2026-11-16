@@ -1,0 +1,128 @@
+{
+	"вф": {
+		"meta": {
+			"savedAt": 1776921927,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_dp27",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dr_heroine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_dp27",
+				"clip1": 47,
+				"info": [
+					47,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolverequiem",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"ears": "headphones2",
+			"torso": "vest13",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"вфвф": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776921049
+		},
+		"ammo": {
+			"99": 1
+		},
+		"activeWeapon": "weapon_ks23",
+		"clothes": [
+			"ent_zcity_colthes_suit_coat3",
+			"ent_zcity_colthes_suit_pants3"
+		],
+		"armor": {
+			"torso": "vest31",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_m18_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_grenade_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolverequiem",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_bow",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ks23",
+				"clip1": 3,
+				"info": [
+					3,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	}
+}

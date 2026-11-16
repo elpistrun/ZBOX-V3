@@ -1,0 +1,181 @@
+{
+	"Green SSO": {
+		"meta": {
+			"savedAt": 1777211315,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"torso": "vest32",
+			"ears": "headphones2",
+			"head": "helmet15"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"Total Black": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777211266
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"head": "helmet5"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"Tan SSO": {
+		"meta": {
+			"savedAt": 1777212365,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"94": 105,
+			"82": 220,
+			"95": 15,
+			"83": 175,
+			"81": 30,
+			"96": 99
+		},
+		"activeWeapon": "weapon_pl15",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_akm",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_pl15",
+				"clip1": 16,
+				"info": [
+					16,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"Specnaz Altyn SSSR": {
+		"meta": {
+			"savedAt": 1777211410,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"torso": "vest10",
+			"head": "helmet12"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"PMC BEAR": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777211455
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"torso": "vest21",
+			"ears": "headphones2",
+			"head": "helmet9"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"Swat": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777209660
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"torso": "vest8",
+			"ears": "headphones2",
+			"head": "helmet6"
+		},
+		"weapons": [],
+		"inventoryAttachments": []
+	},
+	"Specnaz SSSR": {
+		"meta": {
+			"savedAt": 1777211201,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [],
+		"clothes": [],
+		"armor": {
+			"torso": "vest23",
+			"head": "helmet16"
+		},
+		"inventoryAttachments": []
+	}
+}

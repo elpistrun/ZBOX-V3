@@ -1,0 +1,101 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199804366442</steamID64>
+	<steamID><![CDATA[Mr.mEgor1k]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/83e24f545ad137416d0b607fe4974715da429f1c.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/83e24f545ad137416d0b607fe4974715da429f1c_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/83e24f545ad137416d0b607fe4974715da429f1c_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>November 29, 2024</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[𝕸𝖗.𝖒𝕰𝖌𝖔𝖗1𝖐]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/dealerrizz" alt=":dealerrizz:" class="emoticon">]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>81.4</hoursPlayed>
+			<hoursOnRecord>1,504</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Soundpad Demo]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/632810]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/632810/703c3661dbd93892fcbda73f8f46301dcefd3547.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632810/capsule_184x69.jpg?t=1724251887]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632810/capsule_184x69.jpg?t=1724251887]]></gameLogoSmall>
+			<hoursPlayed>18.5</hoursPlayed>
+			<hoursOnRecord>378</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Scrap Mechanic]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/387990]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/387990/a912301394e90691ef6a1598e971c9b47c1806b5.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/capsule_184x69.jpg?t=1727183889]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/capsule_184x69.jpg?t=1727183889]]></gameLogoSmall>
+			<hoursPlayed>12.1</hoursPlayed>
+			<hoursOnRecord>129</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogoSmall>
+			<hoursPlayed>3.0</hoursPlayed>
+			<hoursOnRecord>13.9</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Automation - The Car Company Tycoon Game]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/293760]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/293760/122c5b0d86f1c5eb80243d63abb22999061dc414.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/capsule_184x69.jpg?t=1766012305]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/capsule_184x69.jpg?t=1766012305]]></gameLogoSmall>
+			<hoursPlayed>0.3</hoursPlayed>
+			<hoursOnRecord>26</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Drive Beyond Horizons Demo]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/2859390]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/2859390/e8a40e86f14f58c2303a7c5762c0a7e9641d7416.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859390/a628860548995e73b7b62db9945eff416ab9abde/capsule_184x69.jpg?t=1746013790]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859390/a628860548995e73b7b62db9945eff416ab9abde/capsule_184x69.jpg?t=1746013790]]></gameLogoSmall>
+			<hoursPlayed>0.2</hoursPlayed>
+			<hoursOnRecord>5.6</hoursOnRecord>
+			<statsName><![CDATA[2859390]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+</profile>
+",
+			5821,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 07:11:13 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1369",
+			Last-Modified	=	"Tue, 23 Jun 2026 06:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 06:11:13 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

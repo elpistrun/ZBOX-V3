@@ -1,0 +1,221 @@
+{
+	"2313": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776805234
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_scar",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"empty"
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fury13",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolverequiem",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"Cool pidor 1": {
+		"meta": {
+			"savedAt": 1776806149,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"84": 40,
+			"103": 2,
+			"55": 10
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					0
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_needle",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bandage_sh",
+				"clip1": -1,
+				"info": [
+					40
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 1,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolverequiem",
+				"clip1": 0,
+				"info": [
+					0,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo12",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_scar",
+				"clip1": 20,
+				"info": [
+					20,
+					{
+						"underbarrel": [
+							"laser5",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo5fur",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest1",
+			"ears": "headphones1",
+			"head": "helmet23"
+		},
+		"inventoryAttachments": []
+	}
+}

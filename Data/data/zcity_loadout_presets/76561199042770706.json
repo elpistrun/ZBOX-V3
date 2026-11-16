@@ -1,0 +1,310 @@
+{
+	"ВалераГаваи": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776875659
+		},
+		"ammo": {
+			"49": 72,
+			"76": 149
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"ears": "headphones3",
+			"torso": "vest20",
+			"head": "helmet18"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_mk1",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": {
+							"1": "grip3",
+							"3": []
+						},
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_eagleeft",
+				"clip1": 8,
+				"info": [
+					8,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_m18",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"КрутойПресет Лес": {
+		"meta": {
+			"savedAt": 1776874959,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"49": 8
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"armor": {
+			"ears": "headphones2",
+			"torso": "vest32",
+			"head": "helmet10"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_dvl10_eft",
+				"clip1": 9,
+				"info": [
+					9,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic6",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_eagleeft",
+				"clip1": 8,
+				"info": [
+					8,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"inventoryAttachments": []
+	},
+	"КрутойПресет лес": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776872942
+		},
+		"ammo": {
+			"81": 149
+		},
+		"activeWeapon": "weapon_ak203",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip3",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"ears": "headphones3",
+			"torso": "vest32",
+			"head": "helmet15"
+		},
+		"inventoryAttachments": []
+	},
+	"КрутоЛес": {
+		"meta": {
+			"savedAt": 1776876427,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"103": 6,
+			"43": 75
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_mk18",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo1",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_glock22",
+				"clip1": 15,
+				"info": [
+					15,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest19",
+			"ears": "headphones2",
+			"head": "helmet15"
+		},
+		"inventoryAttachments": [
+			"ironsight2"
+		]
+	}
+}

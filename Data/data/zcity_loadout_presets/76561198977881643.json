@@ -1,0 +1,77 @@
+{
+	"Граник": {
+		"meta": {
+			"savedAt": 1776915039,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hg_eft_fn40gl",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_fn40gl",
+				"clip1": 0,
+				"info": [
+					0,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"Жопич": {
+		"meta": {
+			"savedAt": 1776863931,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"108": 111
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"clothes": [],
+		"armor": {
+			"face": "mask5",
+			"torso": "vest25"
+		},
+		"weapons": [],
+		"inventoryAttachments": []
+	},
+	"Мета плей": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776914927
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_at4",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_at4",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	}
+}

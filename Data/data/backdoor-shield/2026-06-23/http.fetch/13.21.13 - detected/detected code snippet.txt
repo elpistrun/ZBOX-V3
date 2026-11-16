@@ -1,0 +1,212 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198857283002</steamID64>
+	<steamID><![CDATA[Stony]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/3f4d834ddeecddaccdf8ac0dd6e8837975d15475.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/3f4d834ddeecddaccdf8ac0dd6e8837975d15475_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/3f4d834ddeecddaccdf8ac0dd6e8837975d15475_full.jpg]]></avatarFull>
+	<vacBanned>1</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>September 2, 2018</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Aruba]]></location>
+	<realname><![CDATA[Chill]]></realname>
+	<summary><![CDATA[Label: a social guarantee<br>tUMULt - TMBRAIN7<br>Format:<br>Vinyl, 7&quot;, Test Pressing, White Label<br>]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>1.2</hoursPlayed>
+			<hoursOnRecord>835</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[Unofficial GMOD Steam group!]]></headline>
+			<summary><![CDATA[We like building stuff. Some of us like destroying it. Some of us like destroying things others created. Some of us like to laugh at the others whose things got ravaged just to cry shortly after since our own creations are on the ground burning up in ashes. Some of us like banning both parties from the same playing field. And a select few of us are locked away in their basements coding tools in a weird moon computer language. <br>No matter who you are, you'll fit in good. It's a world of possibilities, assholes and unstable Windows dedicated servers out there, and you have to be part of it. If not you can just add baloons to airboats.<br><br><br>Plus it contributes to the income of some random British guy (and his team of coding monkeys). Can you name one thing about that last sentance that just didn't feel right to you?<br>Join today, and feel the burn tomorrow!<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.garrysmod.com" target="_blank" rel=" noopener" >Garry's Mod Website</a><span class="bb_link_host">[www.garrysmod.com]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.garrysmod.org" target="_blank" rel=" noopener" >Garry's Mod Downloads</a><span class="bb_link_host">[www.garrysmod.org]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fforums.facepunchstudios.com" target="_blank" rel=" noopener" >The Facepunch Forums</a><span class="bb_link_host">[forums.facepunchstudios.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196368</memberCount>
+			<membersInChat>17909</membersInChat>
+			<membersInGame>4023</membersInGame>
+			<membersOnline>27403</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429522596</groupID64>
+			<groupName><![CDATA[hax]]></groupName>
+			<groupURL><![CDATA[hax]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/eb3af84bf1cd255019d7ab0980e0f3e3c41a4d27.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/eb3af84bf1cd255019d7ab0980e0f3e3c41a4d27_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/eb3af84bf1cd255019d7ab0980e0f3e3c41a4d27_full.jpg]]></avatarFull>
+			<memberCount>171589</memberCount>
+			<membersInChat>9840</membersInChat>
+			<membersInGame>5041</membersInGame>
+			<membersOnline>24025</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429533863</groupID64>
+			<groupName><![CDATA[Girl Gamers]]></groupName>
+			<groupURL><![CDATA[GirlGamers]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/f3515cbf3f0f74e3db1bab5c6276290f135271c6.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/f3515cbf3f0f74e3db1bab5c6276290f135271c6_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/f3515cbf3f0f74e3db1bab5c6276290f135271c6_full.jpg]]></avatarFull>
+			<memberCount>343964</memberCount>
+			<membersInChat>32772</membersInChat>
+			<membersInGame>4056</membersInGame>
+			<membersOnline>37425</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791429670253</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432320563</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791436221897</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791438123636</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440016262</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791441392610</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791452992536</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791455561596</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791457752573</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791460717908</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791461327989</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791461380450</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791462474816</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791463645893</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791464251028</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465063766</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465707386</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465758567</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465881228</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466347836</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466391047</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466405489</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791467390673</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791467615763</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791467770402</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791468086948</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791468449831</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791468476581</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469924479</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470714782</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470843328</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470932480</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471224827</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471382169</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471498086</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471651782</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472109606</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791474348034</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			9282,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 11:21:13 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2198",
+			Last-Modified	=	"Tue, 23 Jun 2026 10:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 10:21:13 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

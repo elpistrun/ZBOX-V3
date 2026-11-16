@@ -1,0 +1,131 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199886948741</steamID64>
+	<steamID><![CDATA[Антон Чигур]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6990c15b89db9bee7659eb3c03b99c7ad39c8f86.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6990c15b89db9bee7659eb3c03b99c7ad39c8f86_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6990c15b89db9bee7659eb3c03b99c7ad39c8f86_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>August 11, 2025</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Severomorsk, Murmansk, Russian Federation]]></location>
+	<realname><![CDATA[я никого не убивал]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Scope X]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/3477300]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/3477300/ac51b2724fb9864da4f8a98f87b8ceb4b8bd3f78.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477300/1aef64386209f0594f592f3a605aa1f3f282b208/capsule_184x69.jpg?t=1778175372]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477300/1aef64386209f0594f592f3a605aa1f3f282b208/capsule_184x69.jpg?t=1778175372]]></gameLogoSmall>
+			<hoursPlayed>37.2</hoursPlayed>
+			<hoursOnRecord>37</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogoSmall>
+			<hoursPlayed>18.2</hoursPlayed>
+			<hoursOnRecord>328</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Crosshair V2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/2250040]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/2250040/7e534fde2bed17e2114d7c110910296174328891.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250040/b877dc6a71024d65ad5aaaeb905adde418b4a7b2/capsule_184x69.jpg?t=1778173343]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250040/b877dc6a71024d65ad5aaaeb905adde418b4a7b2/capsule_184x69.jpg?t=1778173343]]></gameLogoSmall>
+			<hoursPlayed>17.8</hoursPlayed>
+			<hoursOnRecord>23</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Rust]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/252490]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_184x69.jpg?t=1781536981]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_184x69.jpg?t=1781536981]]></gameLogoSmall>
+			<hoursPlayed>11.3</hoursPlayed>
+			<hoursOnRecord>168</hoursOnRecord>
+			<statsName><![CDATA[252490]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>2.0</hoursPlayed>
+			<hoursOnRecord>106</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[over the hill Demo]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4703940]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4703940/089e1573e5cc4ba1f50663d72ffb04b161272956.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703940/bc0818fbffd5459ea7c5b4cc4d2f6daea14a8530/capsule_184x69.jpg?t=1781776083]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703940/bc0818fbffd5459ea7c5b4cc4d2f6daea14a8530/capsule_184x69.jpg?t=1781776083]]></gameLogoSmall>
+			<hoursPlayed>0.2</hoursPlayed>
+			<hoursOnRecord>0.2</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791431103657</groupID64>
+			<groupName><![CDATA[Na´Vi Team]]></groupName>
+			<groupURL><![CDATA[Natus-Vincere]]></groupURL>
+			<headline><![CDATA[Natus Vincere (NAVI) official Steam group]]></headline>
+			<summary><![CDATA[Natus Vincere (Na`Vi) is a world's leading video gaming club. We conquered all major championships on the planet. We are born to conquer.<br><br>========================================<br>Follow us on social networks:<br>========================================<br>● Facebook - <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FNatusVincere" target="_blank" rel=" noopener" >https://www.facebook.com/NatusVincere</a><br>● Twitter - <a class="bb_link" href="http://twitter.com/natusvincere" target="_blank" rel="" >http://twitter.com/natusvincere</a><br>● Instagram - <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Finstagram.com%2Fnatus_vincere_official%2F" target="_blank" rel=" noopener" >https://instagram.com/natus_vincere_official/</a><br>● Telegram channel - <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ft.me%2Fnatus_vincere_official" target="_blank" rel=" noopener" >https://t.me/natus_vincere_official</a><br>● TikTok account - <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.tiktok.com%2F%40navi_gg" target="_blank" rel=" noopener" >https://www.tiktok.com/@navi_gg</a><br>========================================<br>You can purchase our apparel and gear here:<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fshop.navi.gg%2F" target="_blank" rel=" noopener" >https://shop.navi.gg/</a><br>========================================<br><br>Find us on twitch: <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.twitch.tv%2Fteam%2Fnavitv" target="_blank" rel=" noopener" >https://www.twitch.tv/team/navitv</a><br><br>========================================<br>Visit and subscribe to our YouTube channels:<br>========================================<br><br>● Counter Strike 2 - <a class="bb_link" href="https://www.youtube.com/@NAVICounterStrike" target="_blank" rel="" >https://www.youtube.com/@NAVICounterStrike</a><br>● VALORANT - <a class="bb_link" href="https://www.youtube.com/@NAVIValorant/" target="_blank" rel="" >https://www.youtube.com/@NAVIValorant/</a><br>● Dota 2 - <a class="bb_link" href="https://www.youtube.com/@NatusVincereDota" target="_blank" rel="" >https://www.youtube.com/@NatusVincereDota</a><br>● PUBG - <a class="bb_link" href="https://www.youtube.com/@NAVIPUBG" target="_blank" rel="" >https://www.youtube.com/@NAVIPUBG</a> <br>● CS2 Junior - <a class="bb_link" href="https://www.youtube.com/@NAVIJunior" target="_blank" rel="" >https://www.youtube.com/@NAVIJunior</a><br>● Dota 2 Junior - <a class="bb_link" href="https://www.youtube.com/@NAVIJuniorDota" target="_blank" rel="" >https://www.youtube.com/@NAVIJuniorDota</a><br>● Brawl Stars - <a class="bb_link" href="https://www.youtube.com/@NAVIBrawlStars" target="_blank" rel="" >https://www.youtube.com/@NAVIBrawlStars</a><br>● Clash of Clans - <a class="bb_link" href="https://www.youtube.com/@NAVICOC" target="_blank" rel="" >https://www.youtube.com/@NAVICOC</a><br><br>--------------------------------------------------------------------------------<br>» Help us by inviting your friends to this group!<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fnavi.gg" target="_blank" rel=" noopener" >Official website</a><span class="bb_link_host">[navi.gg]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fshop.navi.gg%2F" target="_blank" rel=" noopener" >Our shop</a><span class="bb_link_host">[shop.navi.gg]</span><br>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/44ae4b29f9d9ed6bfe4c1b0eb99961614c5819a4.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/44ae4b29f9d9ed6bfe4c1b0eb99961614c5819a4_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/44ae4b29f9d9ed6bfe4c1b0eb99961614c5819a4_full.jpg]]></avatarFull>
+			<memberCount>2063087</memberCount>
+			<membersInChat>249104</membersInChat>
+			<membersInGame>23824</membersInGame>
+			<membersOnline>120104</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791464594614</groupID64>
+			<groupName><![CDATA[Na'Vi  Junior]]></groupName>
+			<groupURL><![CDATA[oficalnavijunior]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/3155faa6e407664db0ae25d521c48870015206fa.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/3155faa6e407664db0ae25d521c48870015206fa_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/3155faa6e407664db0ae25d521c48870015206fa_full.jpg]]></avatarFull>
+			<memberCount>36788</memberCount>
+			<membersInChat>3885</membersInChat>
+			<membersInGame>445</membersInGame>
+			<membersOnline>1913</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			11263,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 08:00:38 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2526",
+			Last-Modified	=	"Tue, 23 Jun 2026 07:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 07:00:39 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

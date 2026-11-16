@@ -1,0 +1,26 @@
+{
+	"forcePlayerLink": false,
+	"maintenance": false,
+	"id": "",
+	"syncKick": false,
+	"token": "",
+	"websocketFQDN": "ws.gmod-integration.com",
+	"upgradeSyncConfig": false,
+	"syncTimeout": false,
+	"clientBranch": "any",
+	"syncBan": true,
+	"apiFQDN": "api.gmod-integration.com",
+	"supportLink": "",
+	"version": "5.2.5",
+	"adminRank": {
+		"superadmin": true
+	},
+	"verifyOnReadyKickTime": 600,
+	"logTimestamp": "%H:%M:%S",
+	"redownloadMaterials": false,
+	"verifyFamilySharing": false,
+	"debug": false,
+	"filterOnBan": true,
+	"verifyOnJoin": false,
+	"language": "en"
+}

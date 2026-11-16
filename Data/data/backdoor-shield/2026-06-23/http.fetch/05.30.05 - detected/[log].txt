@@ -1,0 +1,17 @@
+
+[Backdoor Shield] Execution blocked!
+    Date & time: 2026-06-23 | 05h 30m 05s
+    Location: lua/gdisc/g_chat.lua
+    Function: http.Fetch
+    Trying to call:
+        Ban
+    Url: https://steamcommunity.com/profiles/76561199194681988?xml=1
+    Log Folder: data/backdoor-shield/2026-06-23/http.Fetch/05.30.05 - detected/
+    Log Contents: 
+        Detected code snippet
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'Fetch'
+	addons/!gdiscord/lua/gdisc/g_chat.lua:36: in function 'fn'
+	lua/ulib/shared/hook.lua:115: in function <lua/ulib/shared/hook.lua:98>

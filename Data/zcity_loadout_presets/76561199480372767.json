@@ -1,0 +1,167 @@
+{
+	"police": {
+		"meta": {
+			"savedAt": 1776585480,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_remington870",
+		"armor": {
+			"torso": "vest2"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_coltpithon",
+				"clip1": 6,
+				"info": [
+					6,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_remington870",
+				"clip1": 6,
+				"info": [
+					6,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"fefefef": {
+		"meta": {
+			"savedAt": 1777124499,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"75": 30,
+			"74": 30,
+			"77": 30,
+			"76": 209
+		},
+		"activeWeapon": "weapon_m16a2",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m16a2",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_snowball",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest31",
+			"head": "helmet15"
+		},
+		"inventoryAttachments": []
+	},
+	"sniper": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776587944
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_t5000",
+		"clothes": [],
+		"armor": {
+			"ears": "headphones1",
+			"torso": "vest29",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_t5000",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic17",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"optic16",
+			"optic12",
+			"ironsight1"
+		]
+	},
+	"DOR": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776585136
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_ak203",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 28,
+				"info": [
+					28,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"head": "helmet18"
+		},
+		"inventoryAttachments": []
+	}
+}

@@ -1,0 +1,380 @@
+{
+	"12": {
+		"meta": {
+			"savedAt": 1776864003,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"53": 200
+		},
+		"activeWeapon": "weapon_mp510mm",
+		"clothes": [],
+		"armor": {
+			"back": "parachute2",
+			"torso": "vest4"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mp510mm",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": {
+							"1": "laser5",
+							"3": []
+						},
+						"barrel": {
+							"1": "supressor8",
+							"3": []
+						},
+						"sight": [
+							"holo4",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"кустик песочек": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776881725
+		},
+		"ammo": {
+			"84": 181
+		},
+		"activeWeapon": "weapon_rsass",
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit2"
+		],
+		"armor": {
+			"back": "parachute2"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_rsass",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic5",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"кустик": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776871572
+		},
+		"ammo": {
+			"84": 69
+		},
+		"activeWeapon": "weapon_psg1",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_psg1",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"optic16",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"back": "parachute2"
+		},
+		"inventoryAttachments": []
+	},
+	"sa58": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776276492
+		},
+		"ammo": {
+			"93": 23,
+			"84": 198
+		},
+		"activeWeapon": "weapon_makarovpistolpb",
+		"armor": {
+			"torso": "vest28",
+			"back": "parachute2",
+			"head": "helmet18"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_sa58",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_zc_fiberwire_standalone",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_makarovpistolpb",
+				"clip1": 9,
+				"info": [
+					9,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"зел куст": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776871283
+		},
+		"ammo": {
+			"86": 61
+		},
+		"activeWeapon": "weapon_svds",
+		"armor": {
+			"back": "parachute2"
+		},
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_svds",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor1",
+							"3": []
+						},
+						"sight": [
+							"holo6fur",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"inventoryAttachments": []
+	},
+	"средневек": {
+		"meta": {
+			"savedAt": 1776866086,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hg_mace",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mace",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest25",
+			"head": "helmet17"
+		},
+		"inventoryAttachments": []
+	},
+	"13": {
+		"meta": {
+			"savedAt": 1776883487,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 199
+		},
+		"activeWeapon": "weapon_mk18cqbr",
+		"weapons": [
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"back": "parachute2",
+			"torso": "vest4"
+		},
+		"inventoryAttachments": []
+	}
+}

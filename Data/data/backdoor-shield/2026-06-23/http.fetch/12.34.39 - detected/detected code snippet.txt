@@ -1,0 +1,92 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199516270052</steamID64>
+	<steamID><![CDATA[Коричневый Барон]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/8515f632865e601462dce53d451dfeecc34a0993.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/8515f632865e601462dce53d451dfeecc34a0993_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/8515f632865e601462dce53d451dfeecc34a0993_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[USERWAVE]]></customURL>
+	<memberSince>June 15, 2023</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Tel Aviv, Israel]]></location>
+	<realname><![CDATA[Денис Сочи 1864]]></realname>
+	<summary><![CDATA[ВРАГИ ГУБАНИ ИДИТЕ ♥♥♥♥♥ <img src="https://community.akamai.steamstatic.com/economy/emoticon/steammocking" alt=":steammocking:" class="emoticon"><br>]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[Unofficial GMOD Steam group!]]></headline>
+			<summary><![CDATA[We like building stuff. Some of us like destroying it. Some of us like destroying things others created. Some of us like to laugh at the others whose things got ravaged just to cry shortly after since our own creations are on the ground burning up in ashes. Some of us like banning both parties from the same playing field. And a select few of us are locked away in their basements coding tools in a weird moon computer language. <br>No matter who you are, you'll fit in good. It's a world of possibilities, assholes and unstable Windows dedicated servers out there, and you have to be part of it. If not you can just add baloons to airboats.<br><br><br>Plus it contributes to the income of some random British guy (and his team of coding monkeys). Can you name one thing about that last sentance that just didn't feel right to you?<br>Join today, and feel the burn tomorrow!<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.garrysmod.com" target="_blank" rel=" noopener" >Garry's Mod Website</a><span class="bb_link_host">[www.garrysmod.com]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.garrysmod.org" target="_blank" rel=" noopener" >Garry's Mod Downloads</a><span class="bb_link_host">[www.garrysmod.org]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fforums.facepunchstudios.com" target="_blank" rel=" noopener" >The Facepunch Forums</a><span class="bb_link_host">[forums.facepunchstudios.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196368</memberCount>
+			<membersInChat>17908</membersInChat>
+			<membersInGame>3715</membersInGame>
+			<membersOnline>26446</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429523489</groupID64>
+			<groupName><![CDATA[FacepunchStudios]]></groupName>
+			<groupURL><![CDATA[fp]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/21300dd770afee592820d3016022172aba213fb1.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/21300dd770afee592820d3016022172aba213fb1_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/21300dd770afee592820d3016022172aba213fb1_full.jpg]]></avatarFull>
+			<memberCount>123058</memberCount>
+			<membersInChat>6748</membersInChat>
+			<membersInGame>2954</membersInGame>
+			<membersOnline>16648</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791464610372</groupID64>
+			<groupName><![CDATA[Cat's Homicide Server]]></groupName>
+			<groupURL><![CDATA[cathmcd]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648_full.jpg]]></avatarFull>
+			<memberCount>691</memberCount>
+			<membersInChat>354</membersInChat>
+			<membersInGame>47</membersInGame>
+			<membersOnline>204</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791468220342</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470533910</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			5498,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 10:34:38 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1796",
+			Last-Modified	=	"Tue, 23 Jun 2026 09:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 09:34:39 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

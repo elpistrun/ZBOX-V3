@@ -1,0 +1,193 @@
+{
+	"sysTime": 1774984879,
+	"serverID": "",
+	"version": "1.0",
+	"playersList": {
+		"STEAM_0:0:590036318": {
+			"adjustedTime": 0,
+			"steamID64": "76561199140338364",
+			"connectTime": 2283,
+			"team": {
+				"name": "SuperAdmin",
+				"id": 21
+			},
+			"branch": "x86-64",
+			"angle": {
+				"y": -179,
+				"r": -44,
+				"p": -4
+			},
+			"position": {
+				"y": 3526,
+				"x": -330,
+				"z": -6385
+			},
+			"ping": 63,
+			"kills": -17,
+			"customValues": [],
+			"deaths": 17,
+			"fps": 146,
+			"userGroup": "superadmin",
+			"timeLastTeamChange": 2290,
+			"name": "ДЖEMKA",
+			"steamID": "STEAM_0:0:590036318"
+		},
+		"STEAM_0:1:556108178": {
+			"adjustedTime": 0,
+			"steamID64": "76561199072482085",
+			"connectTime": 842,
+			"team": {
+				"name": "Player",
+				"id": 25
+			},
+			"branch": "unknown",
+			"angle": {
+				"y": -12,
+				"r": 0,
+				"p": 32
+			},
+			"position": {
+				"y": 3281,
+				"x": -732,
+				"z": -6400
+			},
+			"ping": 40,
+			"kills": -6,
+			"customValues": [],
+			"deaths": 6,
+			"fps": 134,
+			"userGroup": "user",
+			"timeLastTeamChange": 853,
+			"name": "Хомасник",
+			"steamID": "STEAM_0:1:556108178"
+		},
+		"STEAM_0:0:653578768": {
+			"adjustedTime": 0,
+			"steamID64": "76561199267423264",
+			"connectTime": 2255,
+			"team": {
+				"name": "Player",
+				"id": 25
+			},
+			"branch": "unknown",
+			"weapon": {
+				"printName": "Scripted Weapon",
+				"class": "weapon_hands_sh"
+			},
+			"angle": {
+				"y": 43,
+				"r": 0,
+				"p": 11
+			},
+			"position": {
+				"y": -7888,
+				"x": -4880,
+				"z": -6363
+			},
+			"ping": 43,
+			"kills": -12,
+			"customValues": [],
+			"deaths": 12,
+			"fps": 76,
+			"userGroup": "user",
+			"timeLastTeamChange": 2273,
+			"name": "Книфыч",
+			"steamID": "STEAM_0:0:653578768"
+		},
+		"STEAM_0:1:511901069": {
+			"adjustedTime": 0,
+			"steamID64": "76561198984067867",
+			"connectTime": 2064,
+			"team": {
+				"name": "Player",
+				"id": 25
+			},
+			"branch": "unknown",
+			"weapon": {
+				"printName": "AK 101",
+				"class": "weapon_ak101"
+			},
+			"angle": {
+				"y": 160,
+				"r": 0,
+				"p": 3
+			},
+			"position": {
+				"y": 3286,
+				"x": 375,
+				"z": -6400
+			},
+			"ping": 34,
+			"kills": -10,
+			"customValues": [],
+			"deaths": 10,
+			"fps": 42,
+			"userGroup": "user",
+			"timeLastTeamChange": 2088,
+			"name": "мояффи",
+			"steamID": "STEAM_0:1:511901069"
+		},
+		"STEAM_0:0:829127654": {
+			"adjustedTime": 0,
+			"steamID64": "76561199618521036",
+			"connectTime": 2068,
+			"team": {
+				"name": "DAdmin",
+				"id": 27
+			},
+			"branch": "x86-64",
+			"angle": {
+				"y": -37,
+				"r": 0,
+				"p": 20
+			},
+			"position": {
+				"y": 3522,
+				"x": -775,
+				"z": -6400
+			},
+			"ping": 41,
+			"kills": -9,
+			"customValues": [],
+			"deaths": 9,
+			"fps": 24,
+			"userGroup": "dadmin",
+			"timeLastTeamChange": 2083,
+			"name": "Phyral",
+			"steamID": "STEAM_0:0:829127654"
+		},
+		"STEAM_0:0:768378216": {
+			"adjustedTime": 0,
+			"steamID64": "76561199497022160",
+			"connectTime": 2214,
+			"team": {
+				"name": "Moder",
+				"id": 23
+			},
+			"branch": "x86-64",
+			"weapon": {
+				"printName": "EZ Toolbox",
+				"class": "wep_jack_gmod_eztoolbox"
+			},
+			"angle": {
+				"y": 24,
+				"r": 0,
+				"p": 42
+			},
+			"position": {
+				"y": -12741,
+				"x": -9832,
+				"z": -8192
+			},
+			"ping": 70,
+			"kills": -4,
+			"customValues": [],
+			"deaths": 4,
+			"fps": 76,
+			"userGroup": "moder",
+			"timeLastTeamChange": 2223,
+			"name": "Rebenok",
+			"steamID": "STEAM_0:0:768378216"
+		}
+	}
+}

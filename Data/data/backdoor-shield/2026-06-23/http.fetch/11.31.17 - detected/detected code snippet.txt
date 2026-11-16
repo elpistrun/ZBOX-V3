@@ -1,0 +1,120 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198800595241</steamID64>
+	<steamID><![CDATA[txt9b]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/dded802c8f30791716ec2cd15a947dd00466e76a.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/dded802c8f30791716ec2cd15a947dd00466e76a_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/dded802c8f30791716ec2cd15a947dd00466e76a_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[txt9b]]></customURL>
+	<memberSince>December 29, 2017</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[Отражение в луже, вчера было лучше                                                                                  Когда умру, закопайте  меня глубже.]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791457291326</groupID64>
+			<groupName><![CDATA[Безымянные серверы]]></groupName>
+			<groupURL><![CDATA[unnamedservers]]></groupURL>
+			<headline><![CDATA[Меню группы]]></headline>
+			<summary><![CDATA[<div class="bb_h1">Новая группа</div><div class="bb_code">46.174.49.114:27015
+Новая группа: <a class="bb_link" href="https://steamcommunity.com/groups/unnamedinc_" target="_blank" rel="" >https://steamcommunity.com/groups/unnamedinc_</a>
+Новый дискорд для сервера: <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FuTcvKz762z" target="_blank" rel=" noopener" >https://discord.gg/uTcvKz762z</a>
+Запущено в тестовом режиме.
+</div><div class="bb_h1">Полезные ссылки</div><div class="bb_code"><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F66XvhtF" target="_blank" rel=" noopener" >Чат в Discord</a><span class="bb_link_host">[discord.gg]</span>
+<a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ft.me%2Fjoinchat%2FFr_APQ5mgDuU3ML1mMcbVw" target="_blank" rel=" noopener" >Чат в Telegram</a><span class="bb_link_host">[t.me]</span>
+<a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Funnamedinc" target="_blank" rel=" noopener" >Группа ВК</a><span class="bb_link_host">[vk.com]</span>
+</div><div class="bb_h1">Даты сервера</div><div class="bb_code"><b>Основание Проекта</b>: 10.02.17
+<b>Жизнь ТТТ</b>: 01.03.17-01.03.21
+<b>Жизнь BW</b>: 18.05.20-14.09.20
+</div>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/3762feef18b7eaa7285d0ef2db6b43af6f983b01.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/3762feef18b7eaa7285d0ef2db6b43af6f983b01_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/3762feef18b7eaa7285d0ef2db6b43af6f983b01_full.jpg]]></avatarFull>
+			<memberCount>3198</memberCount>
+			<membersInChat>126</membersInChat>
+			<membersInGame>70</membersInGame>
+			<membersOnline>367</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196350</memberCount>
+			<membersInChat>17907</membersInChat>
+			<membersInGame>3520</membersInGame>
+			<membersOnline>25463</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791454737522</groupID64>
+			<groupName><![CDATA[Millenium Project]]></groupName>
+			<groupURL><![CDATA[Millenium_Project]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/7b9e01e7c6c5ca89b01b8a48176b1c5a55c20c69.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/7b9e01e7c6c5ca89b01b8a48176b1c5a55c20c69_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/7b9e01e7c6c5ca89b01b8a48176b1c5a55c20c69_full.jpg]]></avatarFull>
+			<memberCount>9901</memberCount>
+			<membersInChat>1168</membersInChat>
+			<membersInGame>234</membersInGame>
+			<membersOnline>1081</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791455133573</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791455593141</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791462731801</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791463627526</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791464715894</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465170661</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791467735488</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471194380</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			5915,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 09:31:16 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1618",
+			Last-Modified	=	"Tue, 23 Jun 2026 08:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 08:31:17 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

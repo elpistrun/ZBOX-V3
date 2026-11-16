@@ -1,0 +1,167 @@
+{
+	"ыыыы": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777011179
+		},
+		"ammo": {
+			"97": 60
+		},
+		"activeWeapon": "weapon_vsk94",
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones4",
+			"face": "nightvision1",
+			"head": "helmet18"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_vsk94",
+				"clip1": 19,
+				"info": [
+					19,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic4",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"LOLCIVIL": {
+		"meta": {
+			"savedAt": 1777264692,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_zc_fiberwire_standalone",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bloodbag",
+				"clip1": -1,
+				"info": {
+					"1": 0,
+					"bloodtype": "o-"
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tourniquet",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_zc_fiberwire_standalone",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	}
+}

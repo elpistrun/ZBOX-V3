@@ -1,0 +1,472 @@
+{
+	"hg2": {
+		"meta": {
+			"savedAt": 1777456699,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"103": 27,
+			"76": 89
+		},
+		"activeWeapon": "weapon_buck200knife",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m9beretta",
+				"clip1": 10,
+				"info": [
+					10,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_traitor_ied",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_camera",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_molotov_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk1",
+				"clip1": 29,
+				"info": [
+					29,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest18",
+			"ears": "headphones1",
+			"face": "nightvision1",
+			"head": "helmet20"
+		},
+		"inventoryAttachments": []
+	},
+	"рп": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777383019
+		},
+		"ammo": {
+			"103": 27
+		},
+		"activeWeapon": "weapon_hg_eft_rshg",
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"armor": {
+			"torso": "vest18",
+			"ears": "headphones1",
+			"face": "nightvision1",
+			"head": "helmet20"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m9beretta",
+				"clip1": 10,
+				"info": [
+					10,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_traitor_ied",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rshg",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_camera",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_molotov_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"rp": {
+		"meta": {
+			"savedAt": 1777195640,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"103": 27,
+			"76": 149
+		},
+		"activeWeapon": "weapon_buck200knife",
+		"armor": {
+			"torso": "vest18",
+			"ears": "headphones1",
+			"face": "nightvision1",
+			"head": "helmet20"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m9beretta",
+				"clip1": 10,
+				"info": [
+					10,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_molotov_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_camera",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_traitor_ied",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_naloxone",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_claymore",
+				"clip1": -1,
+				"info": {
+					"placed": false
+				}
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk1",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"ironsight1",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [
+			"ent_zcity_colthes_ghilliesuit1"
+		],
+		"inventoryAttachments": []
+	}
+}

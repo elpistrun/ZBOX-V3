@@ -1,0 +1,14 @@
+{
+	"phys": {
+		"meta": {
+			"savedAt": 1776261501,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	}
+}

@@ -1,0 +1,31 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198305334598</steamID64>
+	<steamID><![CDATA[Snek99]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<privacyState>friendsonly</privacyState>
+	<visibilityState>1</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6c1f8e260e2286da30819e3cbc23dd3640fffdd1.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6c1f8e260e2286da30819e3cbc23dd3640fffdd1_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6c1f8e260e2286da30819e3cbc23dd3640fffdd1_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+</profile>
+",
+			808,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 11:39:32 GMT",
+			Content-Length	=	"370",
+			Last-Modified	=	"Tue, 23 Jun 2026 10:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 10:39:32 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

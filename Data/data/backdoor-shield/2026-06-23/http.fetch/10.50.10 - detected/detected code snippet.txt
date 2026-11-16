@@ -1,0 +1,72 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199563926033</steamID64>
+	<steamID><![CDATA[HamsTER]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/81d735be530e6595aa0003208fed13344dae1e8c.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/81d735be530e6595aa0003208fed13344dae1e8c_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/81d735be530e6595aa0003208fed13344dae1e8c_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>October 21, 2023</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791461519421</groupID64>
+			<groupName><![CDATA[Gredwitch's stuff]]></groupName>
+			<groupURL><![CDATA[GredCancer]]></groupURL>
+			<headline><![CDATA[Hi]]></headline>
+			<summary><![CDATA[<a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FeneGmMz" target="_blank" rel=" noopener" >HT.S Discord</a><span class="bb_link_host">[discord.gg]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/80e84ff5924734d13f04ba8bd4055f4ac7878d95.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/80e84ff5924734d13f04ba8bd4055f4ac7878d95_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/80e84ff5924734d13f04ba8bd4055f4ac7878d95_full.jpg]]></avatarFull>
+			<memberCount>7462</memberCount>
+			<membersInChat>937</membersInChat>
+			<membersInGame>179</membersInGame>
+			<membersOnline>1285</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791463504794</groupID64>
+			<groupName><![CDATA[GambitRP]]></groupName>
+			<groupURL><![CDATA[GambitRP_Grp]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_full.jpg]]></avatarFull>
+			<memberCount>28105</memberCount>
+			<membersInChat>4155</membersInChat>
+			<membersInGame>816</membersInGame>
+			<membersOnline>3418</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			2931,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 08:50:10 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"954",
+			Last-Modified	=	"Tue, 23 Jun 2026 07:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 07:50:10 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

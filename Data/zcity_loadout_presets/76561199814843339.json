@@ -1,0 +1,362 @@
+{
+	"nigg": {
+		"meta": {
+			"savedAt": 1776511479,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"89": 20,
+			"55": 20,
+			"52": 31
+		},
+		"activeWeapon": "weapon_tkpdbear",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tkpdbear",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolversh12",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": [
+			"optic17",
+			"ironsight1",
+			"supressor7",
+			"supressor2",
+			"supressor8",
+			"supressor9",
+			"supressor5",
+			"supressor6"
+		]
+	},
+	"1337": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776415769
+		},
+		"ammo": {
+			"55": 20,
+			"52": 31
+		},
+		"activeWeapon": "weapon_barret82",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_barret82",
+				"clip1": 11,
+				"info": [
+					11,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolversh12",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": [
+			"optic17"
+		]
+	},
+	"фыв": {
+		"meta": {
+			"savedAt": 1776455359,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"52": 10,
+			"55": 23
+		},
+		"activeWeapon": "weapon_hg_rebelrpg",
+		"armor": {
+			"torso": "gordon_armor",
+			"head": "gordon_helmet"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolversh12",
+				"clip1": 2,
+				"info": [
+					2,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_camera",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_rebelrpg",
+				"clip1": 0,
+				"info": [
+					0,
+					{
+						"underbarrel": [
+							"laserrpg0"
+						],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"optic17"
+		]
+	},
+	"фвывфц": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776511294
+		},
+		"ammo": {
+			"89": 40,
+			"55": 20,
+			"52": 31
+		},
+		"activeWeapon": "weapon_tkpdbear",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_adrenaline",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_tkpdbear",
+				"clip1": 10,
+				"info": [
+					10,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_thiamine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_revolversh12",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_fentanyl",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_painkillers",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"inventoryAttachments": [
+			"optic17",
+			"ironsight1"
+		]
+	}
+}

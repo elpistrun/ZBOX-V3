@@ -1,0 +1,8 @@
+{
+	"password": "your_password",
+	"database": "your_db",
+	"dbmodule": "sqlite",
+	"username": "your_username",
+	"hostname": "your_MySQLServerAddres",
+	"port": 3306
+}

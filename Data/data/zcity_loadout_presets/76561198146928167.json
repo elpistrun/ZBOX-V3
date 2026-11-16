@@ -1,0 +1,828 @@
+{
+	"legk": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777108448
+		},
+		"ammo": {
+			"82": 166,
+			"81": 30
+		},
+		"activeWeapon": "weapon_ak203",
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": [
+			"holo13"
+		]
+	},
+	"pulemet": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777371225
+		},
+		"ammo": {
+			"77": 200,
+			"76": 300
+		},
+		"activeWeapon": "weapon_m249",
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m249",
+				"clip1": 150,
+				"info": [
+					150,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"FVSDFSDFSD": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777441168
+		},
+		"ammo": {
+			"82": 189,
+			"81": 92
+		},
+		"activeWeapon": "weapon_scarh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_scarh",
+				"clip1": 21,
+				"info": [
+					21,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor7",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip1",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"FSDFSDFGSDGSDGSDGSDGSD": {
+		"meta": {
+			"savedAt": 1777373943,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 23,
+			"77": 180
+		},
+		"activeWeapon": "weapon_mk18cqbr",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"ears": "headphones2",
+			"torso": "vest30",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"kalah": {
+		"meta": {
+			"savedAt": 1777438327,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"81": 61,
+			"82": 219
+		},
+		"activeWeapon": "weapon_ak203",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_ak203",
+				"clip1": 31,
+				"info": [
+					31,
+					{
+						"underbarrel": [
+							"laser2",
+							[]
+						],
+						"barrel": [],
+						"sight": [
+							"holo4",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"FFFFFF": {
+		"meta": {
+			"savedAt": 1776852879,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"77": 547,
+			"103": 15,
+			"76": 150
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m320gl",
+				"clip1": 1,
+				"info": [
+					1,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m249",
+				"clip1": 150,
+				"info": [
+					150,
+					{
+						"underbarrel": [],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"123": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1776836888
+		},
+		"ammo": {
+			"77": 200
+		},
+		"activeWeapon": "weapon_m249",
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_m249",
+				"clip1": 150,
+				"info": [
+					150,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"AKMSSS": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777441243
+		},
+		"ammo": {
+			"82": 114,
+			"81": 167
+		},
+		"activeWeapon": "weapon_akmnboss",
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_akmnboss",
+				"clip1": 75,
+				"info": [
+					75,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			}
+		],
+		"inventoryAttachments": []
+	},
+	"rrrrr": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777357173
+		},
+		"ammo": {
+			"77": 50,
+			"76": 150
+		},
+		"activeWeapon": "weapon_m249",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_m249",
+				"clip1": 150,
+				"info": [
+					150,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"inventoryAttachments": []
+	},
+	"dsgdgsdgsdgsd": {
+		"meta": {
+			"savedAt": 1777357372,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 300,
+			"77": 20
+		},
+		"activeWeapon": "weapon_mk18cqbr",
+		"armor": {
+			"torso": "vest28",
+			"ears": "headphones2",
+			"face": "mask1",
+			"head": "helmet23"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 23,
+				"info": [
+					23,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	},
+	"mka": {
+		"meta": {
+			"savedAt": 1777444390,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 323,
+			"77": 200
+		},
+		"activeWeapon": "weapon_mk18cqbr",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_mk18cqbr",
+				"clip1": 30,
+				"info": [
+					30,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo14",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": []
+	},
+	"AKMS": {
+		"meta": {
+			"savedAt": 1777441184,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"81": 92,
+			"82": 189
+		},
+		"activeWeapon": "weapon_akmnboss",
+		"armor": {
+			"torso": "vest30",
+			"ears": "headphones2",
+			"face": "nightvision1",
+			"head": "helmet19"
+		},
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_akmnboss",
+				"clip1": 75,
+				"info": [
+					75,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgn",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_rgo",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"inventoryAttachments": []
+	}
+}

@@ -1,0 +1,19 @@
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-22 | 23h 34m 11s
+    Location: lua/3dsky_on.lua
+    Function: RunString
+    Trying to call:
+        RunConsoleCommand
+    Log Folder: data/backdoor-shield/2026-06-22/RunString/23.34.11 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'RunConsoleCommand'
+	lua/3dsky_on.lua:1: in main chunk
+	[C]: in function 'include'
+	lua_run#672:1: in main chunk
+	[C]: in function 'RunString'
+	gamemodes/base/entities/entities/lua_run.lua:50: in function 'RunCode'
+	gamemodes/base/entities/entities/lua_run.lua:58: in function <gamemodes/base/entities/entities/lua_run.lua:56>

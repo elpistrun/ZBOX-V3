@@ -1,0 +1,41 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199509251897</steamID64>
+	<steamID><![CDATA[_PIVNAIA_KEGA_]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/1c95c5262726b9947f81da908e9526f38f008aa7.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/1c95c5262726b9947f81da908e9526f38f008aa7_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/1c95c5262726b9947f81da908e9526f38f008aa7_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>May 26, 2023</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[Иван]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/VSnake" alt=":VSnake:" class="emoticon"><br><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/gordon" alt=":gordon:" class="emoticon"><br><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/mindblown" alt=":mindblown:" class="emoticon">]]></summary>
+
+
+</profile>
+",
+			3090,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 09:00:19 GMT",
+			Content-Length	=	"613",
+			Last-Modified	=	"Tue, 23 Jun 2026 08:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 08:00:19 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

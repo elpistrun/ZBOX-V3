@@ -1,0 +1,72 @@
+{
+	"ffff": {
+		"meta": {
+			"savedAt": 1776848573,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"93": 16
+		},
+		"activeWeapon": "weapon_hands_sh",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_sr1mp",
+				"clip1": 8,
+				"info": [
+					8,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					58.559886506475394
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "gmod_tool",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_physgun",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_milkormgl",
+				"clip1": 6,
+				"info": [
+					6,
+					{
+						"underbarrel": [
+							"lasertaser0"
+						],
+						"barrel": [],
+						"sight": [
+							"sightmgl",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	}
+}

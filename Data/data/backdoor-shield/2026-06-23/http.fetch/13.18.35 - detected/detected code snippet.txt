@@ -1,0 +1,70 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199135077374</steamID64>
+	<steamID><![CDATA[Gibo]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/b315ec5d20c4b483384b1a8ee18243cff5c6154f.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/b315ec5d20c4b483384b1a8ee18243cff5c6154f_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/b315ec5d20c4b483384b1a8ee18243cff5c6154f_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>January 28, 2021</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/missing" alt=":missing:" class="emoticon"><br>]]></summary>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791474597967</groupID64>
+			<groupName><![CDATA[SO: Stalker Online]]></groupName>
+			<groupURL><![CDATA[stalker_online]]></groupURL>
+			<headline><![CDATA[☢️ Стань истинным сталкером вместе с Stalker-Online!]]></headline>
+			<summary><![CDATA[<div class="bb_h1">Русский Stalker-Online в Garry's Mod.</div><br><div class="bb_code"><div class="bb_h1">🎮 Игровые Сервера:</div><div class="bb_code"><div class="bb_h1"> Stalker-Online | Сервер #1 </div>Кордон, Свалка, Тёмная Лощина, Агропром
+connect 212.22.85.40:27015</div>
+<div class="bb_h1">💻 Игровые Ресурсы:</div><div class="bb_code"><div class="bb_code"><div class="bb_h1"> Discord </div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fstalker-online" target="_blank" rel=" noopener" >https://discord.gg/stalker-online</a>
+
+<div class="bb_h1"> Telegram </div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ft.me%2Fstalker_gmod" target="_blank" rel=" noopener" >https://t.me/stalker_gmod</a>
+
+<div class="bb_h1"> Vk Group </div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Fstalker_online_gmod" target="_blank" rel=" noopener" >https://vk.com/stalker_online_gmod</a>
+
+<div class="bb_h1"> Content </div><a class="bb_link" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2808028410" target="_blank" rel="" >https://steamcommunity.com/sharedfiles/filedetails/?id=2808028410</a>
+
+<div class="bb_h1"> Rules </div><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1HMWjitOf-RGWfhgKdCuSZNRfdjjodqF2pbQvt0BKmPY%2Fedit%3Ftab%3Dt.0%23heading%3Dh.1a2q6dg3v9we" target="_blank" rel=" noopener" >https://docs.google.com/document/d/1HMWjitOf-RGWfhgKdCuSZNRfdjjodqF2pbQvt0BKmPY/edit?tab=t.0#heading=h.1a2q6dg3v9we</a></div></div>
+<div class="bb_h1">🔔 Подписывайтесь на объявления группы и получайте первыми информацию о новых промокодах!<br><br>💡 Что делать если вступил в группу но бонус не пришёл?<br>Попробуйте ввести команду !steam через некоторое время, обязательно быть подписанным на группу!<br><br>⚡️ Активируйте каждый день команду /steam и получайте постоянно увеличивающийся бонус!<br><br>🛑 Подать заявку на апелляцию бана можно подать исключительно в нашем дискорд канале <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fstalker-online" target="_blank" rel=" noopener" >клик</a><span class="bb_link_host">[discord.gg]</span></div>
+</div>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/2619bf8029b4d3d757ced7bfbff561ed66dca784.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/2619bf8029b4d3d757ced7bfbff561ed66dca784_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/2619bf8029b4d3d757ced7bfbff561ed66dca784_full.jpg]]></avatarFull>
+			<memberCount>2046</memberCount>
+			<membersInChat>426</membersInChat>
+			<membersInGame>160</membersInGame>
+			<membersOnline>540</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			4831,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 11:18:35 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1804",
+			Last-Modified	=	"Tue, 23 Jun 2026 10:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 10:18:35 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

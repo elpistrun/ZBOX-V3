@@ -1,0 +1,41 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198767458825</steamID64>
+	<steamID><![CDATA[SAS]]></steamID>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/cb8b0c7684f2516393bd3d9e8a4103fab43d6c8e.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/cb8b0c7684f2516393bd3d9e8a4103fab43d6c8e_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/cb8b0c7684f2516393bd3d9e8a4103fab43d6c8e_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>1</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>November 17, 2025</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[lol]]></summary>
+
+
+</profile>
+",
+			1091,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 04:15:17 GMT",
+			Content-Length	=	"482",
+			Last-Modified	=	"Tue, 23 Jun 2026 03:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 03:15:17 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

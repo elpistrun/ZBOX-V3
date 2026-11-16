@@ -1,0 +1,100 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199194681988</steamID64>
+	<steamID><![CDATA[Обама]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/3ab99e6105a5025b079edc494ef197011996f203.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/3ab99e6105a5025b079edc494ef197011996f203_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/3ab99e6105a5025b079edc494ef197011996f203_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>July 31, 2021</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Alexandria, Ontario, Canada]]></location>
+	<realname><![CDATA[nevajno]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/steamfacepalm" alt=":steamfacepalm:" class="emoticon"><img src="https://community.akamai.steamstatic.com/economy/emoticon/steambored" alt=":steambored:" class="emoticon">]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Russian Fishing 4]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/766570]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/766570/3b374139de62caed7c8f2df0a57f671b7fa7dffb.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/capsule_184x69.jpg?t=1752656375]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/capsule_184x69.jpg?t=1752656375]]></gameLogoSmall>
+			<hoursPlayed>10.4</hoursPlayed>
+			<hoursOnRecord>140</hoursOnRecord>
+			<statsName><![CDATA[766570]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Burglin' Gnomes]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/3844970]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/3844970/1b5f31ad6f6d85bc057219cbdfc2135ae237ae63.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/e41b58cdb34075d167e6905d090cd0a7f69c2254/capsule_184x69.jpg?t=1781100001]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/e41b58cdb34075d167e6905d090cd0a7f69c2254/capsule_184x69.jpg?t=1781100001]]></gameLogoSmall>
+			<hoursPlayed>7.9</hoursPlayed>
+			<hoursOnRecord>7.9</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Left 4 Dead 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/550]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/550/7d5a243f9500d2f8467312822f8af2a2928777ed.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_184x69.jpg?t=1772742214]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_184x69.jpg?t=1772742214]]></gameLogoSmall>
+			<hoursPlayed>3.1</hoursPlayed>
+			<hoursOnRecord>3.9</hoursOnRecord>
+			<statsName><![CDATA[L4D2]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Dota 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/570]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1769535998]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1769535998]]></gameLogoSmall>
+			<hoursPlayed>2.9</hoursPlayed>
+			<hoursOnRecord>616</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Soundpad]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/629520]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/629520/f261c8f5948de73428a1dbed573ec964fcbecb67.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogoSmall>
+			<hoursPlayed>2.1</hoursPlayed>
+			<hoursOnRecord>145</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[YAPYAP]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/3834090]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/3834090/b90bd3bc55bd618c420179c05bda8f7623c2e876.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834090/572e23522fedc8be0b352d3556f0119e1ca077ea/capsule_184x69.jpg?t=1775943797]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834090/572e23522fedc8be0b352d3556f0119e1ca077ea/capsule_184x69.jpg?t=1775943797]]></gameLogoSmall>
+			<hoursPlayed>1.0</hoursPlayed>
+			<hoursOnRecord>1.0</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+</profile>
+",
+			5733,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 03:30:04 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1284",
+			Last-Modified	=	"Tue, 23 Jun 2026 02:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 02:30:05 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

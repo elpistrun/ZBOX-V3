@@ -1,0 +1,111 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199333149648</steamID64>
+	<steamID><![CDATA[Бобро-Еб]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/bc686f67c5a88b604df193bacebc58826c6f2452.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/bc686f67c5a88b604df193bacebc58826c6f2452_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/bc686f67c5a88b604df193bacebc58826c6f2452_full.jpg]]></avatarFull>
+	<vacBanned>1</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>1</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>June 12, 2022</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[]]></location>
+	<realname><![CDATA[Степан::3]]></realname>
+	<summary><![CDATA[]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>23.3</hoursPlayed>
+			<hoursOnRecord>2,182</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Euro Truck Simulator 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/227300]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/227300/adc18a4fc9adc0330144b76d61cbda68bb2394a0.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_184x69.jpg?t=1773641450]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_184x69.jpg?t=1773641450]]></gameLogoSmall>
+			<hoursPlayed>0.8</hoursPlayed>
+			<hoursOnRecord>91</hoursOnRecord>
+			<statsName><![CDATA[227300]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791463504794</groupID64>
+			<groupName><![CDATA[GambitRP]]></groupName>
+			<groupURL><![CDATA[GambitRP_Grp]]></groupURL>
+			<headline><![CDATA[Gambit Role Play l Garry's Mod]]></headline>
+			<summary><![CDATA[<div class="bb_h1"> Сервера </div><div class="bb_code">GambitRP #1 - 212.22.93.215:27015 [Нет машин, Высокий ФПС, Битмайнеры, rp_bangclaw] </div> <div class="bb_code">GambitRP #2 - 212.22.93.171:27015 [Машины, Высокий ФПС, Битмайнеры, rp_downtown_tits_v2] </div> <br><b>Полезные ссылки</b><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Fdiscord" target="_blank" rel=" noopener" > Discord</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Frules" target="_blank" rel=" noopener" > Правила</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgambitrp.site%2Fvk" target="_blank" rel=" noopener" > Группа ВК</a><span class="bb_link_host">[gambitrp.site]</span><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fforum.gambitrp.site" target="_blank" rel=" noopener" > Форум </a><span class="bb_link_host">[forum.gambitrp.site]</span><br>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6906f515a7d3a8ed90c796cad7d84b7db305883c_full.jpg]]></avatarFull>
+			<memberCount>28116</memberCount>
+			<membersInChat>4155</membersInChat>
+			<membersInGame>1208</membersInGame>
+			<membersOnline>4582</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791463519603</groupID64>
+			<groupName><![CDATA[VSRP | Russian DarkRP Сервер]]></groupName>
+			<groupURL><![CDATA[vsrpgm]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/a83639a0173e8e600cf304d8b8050d21470eeef8.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/a83639a0173e8e600cf304d8b8050d21470eeef8_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/a83639a0173e8e600cf304d8b8050d21470eeef8_full.jpg]]></avatarFull>
+			<memberCount>472</memberCount>
+			<membersInChat>87</membersInChat>
+			<membersInGame>19</membersInGame>
+			<membersOnline>98</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791471194380</groupID64>
+			<groupName><![CDATA[Мухосранск РП]]></groupName>
+			<groupURL><![CDATA[muxosranskrp]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/cb5956305bc5b3d692d11ef58b49dd5b92b3fdf0_full.jpg]]></avatarFull>
+			<memberCount>9255</memberCount>
+			<membersInChat>729</membersInChat>
+			<membersInGame>410</membersInGame>
+			<membersOnline>1552</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791471474942</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			6562,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 10:50:15 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1765",
+			Last-Modified	=	"Tue, 23 Jun 2026 09:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 09:50:15 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

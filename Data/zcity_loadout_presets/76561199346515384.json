@@ -1,0 +1,120 @@
+{
+	"Основа": {
+		"meta": {
+			"savedAt": 1777442932,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": [],
+		"activeWeapon": "weapon_buck200knife",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "glide_homing_launcher",
+				"clip1": 1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_eft_vog17",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_f1_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_hg_mk2_tpik",
+				"clip1": -1
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": 0,
+				"class": "gmod_tool",
+				"clip1": 0
+			},
+			{
+				"clip2": 0,
+				"class": "weapon_physgun",
+				"clip1": 0
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_buck200knife",
+				"clip1": -1
+			}
+		],
+		"clothes": [],
+		"armor": [],
+		"inventoryAttachments": []
+	},
+	"Sniper nigga": {
+		"meta": {
+			"zcityVersion": "Release 1.4.0",
+			"savedAt": 1777441956
+		},
+		"ammo": {
+			"39": 17
+		},
+		"activeWeapon": "weapon_axmc",
+		"clothes": [],
+		"armor": [],
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_axmc",
+				"clip1": 5,
+				"info": [
+					5,
+					{
+						"underbarrel": [],
+						"barrel": [],
+						"sight": [
+							"optic17",
+							[]
+						],
+						"mount": [],
+						"grip": [],
+						"magwell": []
+					}
+				]
+			}
+		],
+		"inventoryAttachments": []
+	}
+}

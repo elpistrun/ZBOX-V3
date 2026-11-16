@@ -1,0 +1,120 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199003288240</steamID64>
+	<steamID><![CDATA[BioWolF]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/b7fbf78e6d2abb73de19ff818cf221d1264cca7f.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/b7fbf78e6d2abb73de19ff818cf221d1264cca7f_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/b7fbf78e6d2abb73de19ff818cf221d1264cca7f_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>November 18, 2019</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Russian Federation]]></location>
+	<realname><![CDATA[НИК]]></realname>
+	<summary><![CDATA[<img src="https://community.akamai.steamstatic.com/economy/emoticon/steambored" alt=":steambored:" class="emoticon">Информация отсутствует.]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Arena Breakout: Infinite]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/2073620]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/3c3cb9ae001821040f4a5c255bc577fb0143dadd.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c9d30727343934f46df54ed976b24dc6f9b558ef/capsule_184x69.jpg?t=1779265675]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c9d30727343934f46df54ed976b24dc6f9b558ef/capsule_184x69.jpg?t=1779265675]]></gameLogoSmall>
+			<hoursPlayed>7.1</hoursPlayed>
+			<hoursOnRecord>53</hoursOnRecord>
+			<statsName><![CDATA[2073620]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>6.3</hoursPlayed>
+			<hoursOnRecord>240</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Euro Truck Simulator 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/227300]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/227300/adc18a4fc9adc0330144b76d61cbda68bb2394a0.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_184x69.jpg?t=1773641450]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_184x69.jpg?t=1773641450]]></gameLogoSmall>
+			<hoursPlayed>1.1</hoursPlayed>
+			<hoursOnRecord>325</hoursOnRecord>
+			<statsName><![CDATA[227300]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Zoo 2: Animal Park]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1352330]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1352330/138f6e80eb6e3f1b7a81b019659823775d85d2d4.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352330/32378585527dbfb8f4b89cb8eecf58d042c2a4c8/capsule_184x69.jpg?t=1731918717]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352330/32378585527dbfb8f4b89cb8eecf58d042c2a4c8/capsule_184x69.jpg?t=1731918717]]></gameLogoSmall>
+			<hoursPlayed>0.6</hoursPlayed>
+			<hoursOnRecord>0.6</hoursOnRecord>
+			<statsName><![CDATA[1352330]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Call to Arms]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/302670]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/302670/fa5660b5faf34a918f24c076f839357023a1deb8.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/capsule_184x69.jpg?t=1755264771]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/capsule_184x69.jpg?t=1755264771]]></gameLogoSmall>
+			<hoursPlayed>0.5</hoursPlayed>
+			<hoursOnRecord>91</hoursOnRecord>
+			<statsName><![CDATA[302670]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogoSmall>
+			<hoursPlayed>0.4</hoursPlayed>
+			<hoursOnRecord>123</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791467989465</groupID64>
+			<groupName><![CDATA[MERCENАRY]]></groupName>
+			<groupURL><![CDATA[mercenary_presents]]></groupURL>
+			<headline><![CDATA[Добро пожаловать в мультиигровое сообщество &quot;MERCENARY&quot;.]]></headline>
+			<summary><![CDATA[Эту группу мы создали для общения и новых знакомств с людьми разделяющие наши интересы, а так же для тех кто решил присоединиться в нашу дружную компанию и погрузиться в атмосферу игр вместе с нами.<br>Политика MERCENARY всегда однозначна – максимально агрессивная игра нацеленная на победу. Помощь соклановцам в прохождении квестов. Здесь всегда помогут советом в той или иной степени. В некоторых играх мы традиционно позиционируемся как наëмный ПК клан, но тем не менее готовы помогать за определённую плату.<br><br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Fmercenary_presents" target="_blank" rel=" noopener" >Мультиигровое сообщество</a><span class="bb_link_host">[vk.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/6d0ca468f7552f0c1e003cbdf1f1dfd36133baec.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/6d0ca468f7552f0c1e003cbdf1f1dfd36133baec_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/6d0ca468f7552f0c1e003cbdf1f1dfd36133baec_full.jpg]]></avatarFull>
+			<memberCount>15</memberCount>
+			<membersInChat>9</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>4</membersOnline>
+		</group>
+	</groups>
+</profile>
+",
+			8217,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 03:14:58 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2355",
+			Last-Modified	=	"Tue, 23 Jun 2026 02:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 02:14:58 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

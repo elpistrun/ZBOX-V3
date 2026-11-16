@@ -1,0 +1,128 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199497022160</steamID64>
+	<steamID><![CDATA[Neon]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/8c1c7f083b84b91fc9263cd0c707f0ef201dc812.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/8c1c7f083b84b91fc9263cd0c707f0ef201dc812_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/8c1c7f083b84b91fc9263cd0c707f0ef201dc812_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>April 16, 2023</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Russian Federation]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[биля, а чо написать&amp;?<br>P.S О, я придумал, &quot;лучше не ебите меня в жопу<img src="https://community.akamai.steamstatic.com/economy/emoticon/steamsad" alt=":steamsad:" class="emoticon">&quot;<br>]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>93.4</hoursPlayed>
+			<hoursOnRecord>3,927</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Soundpad]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/629520]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/629520/f261c8f5948de73428a1dbed573ec964fcbecb67.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogoSmall>
+			<hoursPlayed>11.2</hoursPlayed>
+			<hoursOnRecord>3,090</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Project Zomboid]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/108600]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/108600/2bd4642ae337e378e7b04a19d19683425c5f81a4.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_184x69.jpg?t=1777298596]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_184x69.jpg?t=1777298596]]></gameLogoSmall>
+			<hoursPlayed>2.7</hoursPlayed>
+			<hoursOnRecord>74</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[OBS Studio]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/1905180]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/1905180/b030cbb319718e6e06ce707ae564e0dd6e560735.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/capsule_184x69.jpg?t=1768433435]]></gameLogoSmall>
+			<hoursPlayed>1.5</hoursPlayed>
+			<hoursOnRecord>80</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791466405489</groupID64>
+			<groupName><![CDATA[Daun Play]]></groupName>
+			<groupURL><![CDATA[sanaj]]></groupURL>
+			<headline><![CDATA[Welcome to the club buddy!]]></headline>
+			<summary><![CDATA[<div class="bb_h1"> Дорога в киберспорт!</div><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvk.com%2Fdaunplay" target="_blank" rel=" noopener" >Группа ВКонтаке</a><span class="bb_link_host">[vk.com]</span><br><a class="bb_link" href="https://www.youtube.com/c/SanajChannel/videos" target="_blank" rel="" >Канал на Ютубе</a><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscordapp.com%2Finvite%2FDcsha4z" target="_blank" rel=" noopener" >Дискорд сервер</a><span class="bb_link_host">[discordapp.com]</span>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/c5b9fa5aadc299483a14bd77317dd782d4f8a4dd.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/c5b9fa5aadc299483a14bd77317dd782d4f8a4dd_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/c5b9fa5aadc299483a14bd77317dd782d4f8a4dd_full.jpg]]></avatarFull>
+			<memberCount>5033</memberCount>
+			<membersInChat>1760</membersInChat>
+			<membersInGame>259</membersInGame>
+			<membersOnline>1118</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791461195023</groupID64>
+			<groupName><![CDATA[Megio's Pac3 Academy!]]></groupName>
+			<groupURL><![CDATA[MegsAcademy]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/305f02a17cb5f3e9871732854e00cf840b1ecdf3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/305f02a17cb5f3e9871732854e00cf840b1ecdf3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/305f02a17cb5f3e9871732854e00cf840b1ecdf3_full.jpg]]></avatarFull>
+			<memberCount>795</memberCount>
+			<membersInChat>65</membersInChat>
+			<membersInGame>24</membersInGame>
+			<membersOnline>165</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791461779182</groupID64>
+			<groupName><![CDATA[wiremod academy]]></groupName>
+			<groupURL><![CDATA[wiremod_academy]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/9d9e24e68b01ffa1356898c688fb7590015c0237.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/9d9e24e68b01ffa1356898c688fb7590015c0237_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/9d9e24e68b01ffa1356898c688fb7590015c0237_full.jpg]]></avatarFull>
+			<memberCount>136</memberCount>
+			<membersInChat>40</membersInChat>
+			<membersInGame>8</membersInGame>
+			<membersOnline>28</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791463504794</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			7428,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 09:53:17 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"1918",
+			Last-Modified	=	"Tue, 23 Jun 2026 08:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 08:53:17 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

@@ -1,0 +1,617 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561199787162587</steamID64>
+	<steamID><![CDATA[xsbaw]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/2cba739bd7fc3f8385d9a3200cd6971b2b00882a.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/2cba739bd7fc3f8385d9a3200cd6971b2b00882a_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/2cba739bd7fc3f8385d9a3200cd6971b2b00882a_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[Monotry]]></customURL>
+	<memberSince>October 2, 2024</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Dagestan, Russian Federation]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[<div class="bb_h1">  <a class="bb_link" href="https://steamcommunity.com/tradeoffer/new?partner=1826896859&amp;token=U753m0Lc" target="_blank" rel="" > Trade </a>  </div>5R42TsSFh::R_EdjGGk//DDllFi337l00mTTPr6748923.14TYOloAMi0L^^^^DtS578123AdmiNAdMiN<br>]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Soundpad]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/629520]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/629520/f261c8f5948de73428a1dbed573ec964fcbecb67.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/capsule_184x69.jpg?t=1760026851]]></gameLogoSmall>
+			<hoursPlayed>41.1</hoursPlayed>
+			<hoursOnRecord>290</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>33.1</hoursPlayed>
+			<hoursOnRecord>790</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[R.E.P.O.]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/3241660]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/28c1bb423e9af8646047e9e881c3a0ac121647f6/capsule_184x69.jpg?t=1778158882]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/28c1bb423e9af8646047e9e881c3a0ac121647f6/capsule_184x69.jpg?t=1778158882]]></gameLogoSmall>
+			<hoursPlayed>31.1</hoursPlayed>
+			<hoursOnRecord>137</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Grand Theft Auto V Enhanced]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/3240220]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/3240220/8355a7bbdb704f727bfba80ec56bc7228991338e.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>12.6</hoursPlayed>
+			<hoursOnRecord>17.8</hoursOnRecord>
+			<statsName><![CDATA[3240220]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Rust]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/252490]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_184x69.jpg?t=1781536981]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_184x69.jpg?t=1781536981]]></gameLogoSmall>
+			<hoursPlayed>8.6</hoursPlayed>
+			<hoursOnRecord>497</hoursOnRecord>
+			<statsName><![CDATA[252490]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike 2]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1780435263]]></gameLogoSmall>
+			<hoursPlayed>6.9</hoursPlayed>
+			<hoursOnRecord>483</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791430226694</groupID64>
+			<groupName><![CDATA[SOCHI]]></groupName>
+			<groupURL><![CDATA[SOCHI4]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/b17b00ef070873e360bdf9595eb904405236ef81.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/b17b00ef070873e360bdf9595eb904405236ef81_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/b17b00ef070873e360bdf9595eb904405236ef81_full.jpg]]></avatarFull>
+			<memberCount>195</memberCount>
+			<membersInChat>38</membersInChat>
+			<membersInGame>7</membersInGame>
+			<membersOnline>24</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521464</groupID64>
+			<groupName><![CDATA[Facepunch]]></groupName>
+			<groupURL><![CDATA[Facepunch]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/c132817aece00839f9ed2120fff49f66cbad8e89.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/c132817aece00839f9ed2120fff49f66cbad8e89_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/c132817aece00839f9ed2120fff49f66cbad8e89_full.jpg]]></avatarFull>
+			<memberCount>88060</memberCount>
+			<membersInChat>1958</membersInChat>
+			<membersInGame>1120</membersInGame>
+			<membersOnline>11252</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521496</groupID64>
+			<groupName><![CDATA[garry's mod]]></groupName>
+			<groupURL><![CDATA[gmod]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/fb47a54d169e2f93abe3a07256cdcc82b9a261e3_full.jpg]]></avatarFull>
+			<memberCount>196373</memberCount>
+			<membersInChat>17910</membersInChat>
+			<membersInGame>4645</membersInGame>
+			<membersOnline>30405</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791429521654</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429521975</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429522221</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429523339</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429523489</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429525461</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429530109</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429533160</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429536766</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429543467</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429551180</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429558847</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429587317</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429726636</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429833873</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429845284</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791429961727</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430030342</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430101957</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430372226</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430376450</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430464720</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430542163</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430574640</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430610524</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430655770</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430705949</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791430764884</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791431103657</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791431148829</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791431257592</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791431399995</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791431715883</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432024298</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432043151</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432292416</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432553344</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432767676</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791432918172</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433033240</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433482731</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433646860</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433738079</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433767494</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791433775490</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434060153</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434277245</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434280706</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434391876</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434436741</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434436747</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434436748</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434631116</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434672565</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434796278</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791434928023</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435102572</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435203983</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435542737</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435543010</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435601920</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791435670252</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791436166747</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791436540599</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791436557880</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791437859146</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791437955580</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791438043357</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791438704066</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440061257</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440068080</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440160998</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440532314</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791440769741</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791441122485</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791441123895</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791441621643</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791453261779</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791453994885</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791454600966</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791454671293</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791454866000</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791455215730</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791455251519</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791455593141</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031086</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031099</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031110</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031121</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031141</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791456031151</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791457008404</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791457995122</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791458531353</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791459944296</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791460149832</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791462445137</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791462778767</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791463866789</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791464416493</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791464610372</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791464818385</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465063766</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791465502261</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466468419</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466512219</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466532580</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791466782379</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791467881388</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791468322154</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791468648646</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469018236</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469272938</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469364928</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469583114</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469692574</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469706304</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469865184</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470144950</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470213992</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470356440</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470615130</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470673501</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470709201</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470843328</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470863109</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791470940333</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471224827</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471266378</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471359774</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791471991719</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472303616</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472603402</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472650817</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472798691</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472826601</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472844088</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472882517</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472926143</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473187294</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473269993</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473496465</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473890528</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791473977966</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791474180747</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791474504564</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475073264</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475086060</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475109903</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475147019</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475226523</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475276629</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475278336</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475340941</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475487810</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475497030</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475633230</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			21788,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 13:11:29 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2838",
+			Last-Modified	=	"Tue, 23 Jun 2026 12:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 12:11:29 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

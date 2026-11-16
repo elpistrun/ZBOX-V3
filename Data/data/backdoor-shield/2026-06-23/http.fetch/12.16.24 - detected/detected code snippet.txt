@@ -1,0 +1,155 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198349941420</steamID64>
+	<steamID><![CDATA[LastZlo]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Garry's Mod]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/7b3ffea958441c2da086e5c4fc98151e620da5ea.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/7b3ffea958441c2da086e5c4fc98151e620da5ea_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/7b3ffea958441c2da086e5c4fc98151e620da5ea_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[lastzlo]]></customURL>
+	<memberSince>December 10, 2016</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Russian Federation]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[Любитель стрелялок, песочниц и ужастиков.]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Garry's Mod]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/4000]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682]]></gameLogoSmall>
+			<hoursPlayed>28.4</hoursPlayed>
+			<hoursOnRecord>2,938</hoursOnRecord>
+			<statsName><![CDATA[GarrysMod]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Wolfenstein: The New Order]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/201810]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/201810/965b8943ad172d8cf0c74e86068b4aa670aba92c.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>8.6</hoursPlayed>
+			<hoursOnRecord>10.5</hoursOnRecord>
+			<statsName><![CDATA[201810]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Metro: Last Light Redux]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/287390]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/287390/7139b7af2ad9d248d21e98302b964cd61474318c.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>3.9</hoursPlayed>
+			<hoursOnRecord>13.8</hoursOnRecord>
+			<statsName><![CDATA[287390]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Bet On Soldier]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/335320]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/335320/271ace9a8ea5f4e669ee4236b638ee9f536c8f2e.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335320/capsule_184x69.jpg?t=1569310824]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335320/capsule_184x69.jpg?t=1569310824]]></gameLogoSmall>
+			<hoursPlayed>1.5</hoursPlayed>
+			<hoursOnRecord>4.0</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[S.T.A.L.K.E.R.: Call of Pripyat]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/41700]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/41700/60b32d190ebcaac8d2b2aaf16db2b07015616eb2.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41700/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41700/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>1.3</hoursPlayed>
+			<hoursOnRecord>14.2</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Portal]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/400]]></gameLink>
+			<gameIcon><![CDATA[https://shared.akamai.steamstatic.com/community_assets/images/apps/400/cfa928ab4119dd137e50d728e8fe703e4e970aff.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_184x69.jpg?t=1745368554]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_184x69.jpg?t=1745368554]]></gameLogoSmall>
+			<hoursPlayed>1.1</hoursPlayed>
+			<hoursOnRecord>6.1</hoursOnRecord>
+			<statsName><![CDATA[Portal]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791464610372</groupID64>
+			<groupName><![CDATA[Cat's Homicide Server]]></groupName>
+			<groupURL><![CDATA[cathmcd]]></groupURL>
+			<headline><![CDATA[Server's IP: 185.17.0.25:27025]]></headline>
+			<summary><![CDATA[Server content: <a class="bb_link" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1701478475" target="_blank" rel="" >https://steamcommunity.com/sharedfiles/filedetails/?id=1701478475</a><br><br>Donate links: <br>UMoney: <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fsobe.ru%2Fna%2Fhosting_dlya_servera_f5wm" target="_blank" rel=" noopener" >sobe.ru/na/hosting_dlya_servera_f5wm</a><br>QIWI: <a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fqiwi.com%2Fn%2FFERNM936" target="_blank" rel=" noopener" >qiwi.com/n/FERNM936</a>]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/17c7b3e4dfa17bb38f85cde7ef6a03dcdb5fb648_full.jpg]]></avatarFull>
+			<memberCount>691</memberCount>
+			<membersInChat>354</membersInChat>
+			<membersInGame>47</membersInGame>
+			<membersOnline>192</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429528994</groupID64>
+			<groupName><![CDATA[Level Designer]]></groupName>
+			<groupURL><![CDATA[Leveldesigner]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/23ca4b1f3bb3b75bc87327e6d4f74d88d3c5fc4a.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/23ca4b1f3bb3b75bc87327e6d4f74d88d3c5fc4a_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/23ca4b1f3bb3b75bc87327e6d4f74d88d3c5fc4a_full.jpg]]></avatarFull>
+			<memberCount>4081</memberCount>
+			<membersInChat>205</membersInChat>
+			<membersInGame>110</membersInGame>
+			<membersOnline>790</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791431519807</groupID64>
+			<groupName><![CDATA[/.ZoZo./ Zombie Zone Portal]]></groupName>
+			<groupURL><![CDATA[zo-zo]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[https://avatars.akamai.steamstatic.com/abc80626726c59db9e47c2bec6e44dfc9f651fe1.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[https://avatars.akamai.steamstatic.com/abc80626726c59db9e47c2bec6e44dfc9f651fe1_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[https://avatars.akamai.steamstatic.com/abc80626726c59db9e47c2bec6e44dfc9f651fe1_full.jpg]]></avatarFull>
+			<memberCount>58733</memberCount>
+			<membersInChat>2321</membersInChat>
+			<membersInGame>457</membersInGame>
+			<membersOnline>3711</membersOnline>
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791461464664</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791472278557</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791475470191</groupID64>
+			</group>
+			</groups>
+</profile>
+",
+			8887,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Tue, 23 Jun 2026 10:16:23 GMT",
+			Set-Cookie	=	"steamCountry=RU%7C696239c21433b3f5d26e6ea25c13e773; path=/; secure; HttpOnly; SameSite=None",
+			Content-Length	=	"2001",
+			Last-Modified	=	"Tue, 23 Jun 2026 09:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Tue, 23 Jun 2026 09:16:24 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

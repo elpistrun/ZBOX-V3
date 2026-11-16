@@ -1,0 +1,64 @@
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 17m 11s
+    Location: lua/autorun/stormfox2.lua
+    Function: game.CleanUpMap
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/autorun/stormfox2.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 17m 11s
+    Location: lua/vrmodunoffcial/0/vrmod_api.lua
+    Function: hook.Remove
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/vrmodunoffcial/0/vrmod_api.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 17m 11s
+    Location: lua/vrmodunoffcial/0/vrmod_api.lua
+    Function: hook.Add
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/vrmodunoffcial/0/vrmod_api.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 17m 11s
+    Location: lua/homigrad/sh_utility.lua
+    Function: util.ScreenShake
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/homigrad/sh_utility.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 54m 00s
+    Location: lua/autorun/stormfox2.lua
+    Function: game.CleanUpMap
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/autorun/stormfox2.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 54m 00s
+    Location: lua/vrmodunoffcial/0/vrmod_api.lua
+    Function: hook.Remove
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/vrmodunoffcial/0/vrmod_api.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 54m 00s
+    Location: lua/vrmodunoffcial/0/vrmod_api.lua
+    Function: hook.Add
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/vrmodunoffcial/0/vrmod_api.lua
+
+[Backdoor Shield] Detour detected and undone!
+    Date & time: 2026-06-22 | 23h 54m 00s
+    Location: lua/homigrad/sh_utility.lua
+    Function: util.ScreenShake
+    Log Folder: data/backdoor-shield/2026-06-22/
+    Trace:  stack traceback:
+          lua/homigrad/sh_utility.lua

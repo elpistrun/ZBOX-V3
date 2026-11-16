@@ -1,0 +1,19 @@
+
+[Backdoor Shield] Detected function call!
+    Date & time: 2026-06-23 | 00h 51m 30s
+    Location: lua/zclib/util/sh_effects.lua
+    Function: CompileFile
+    Trying to call:
+        util.AddNetworkString
+    Log Folder: data/backdoor-shield/2026-06-23/CompileFile/00.51.30 - detected/
+    Log Contents: 
+        Full Lua file
+    Trace: 
+      stack traceback:
+	addons/backdoor-shield-1.10.0/lua/bs/server/libs/liveprotection/detour.lua:151: in function 'AddNetworkString'
+	lua/zclib/util/sh_effects.lua:76: in function 'AddDefinition'
+	lua/zclib/util/sh_effects.lua:145: in main chunk
+	[C]: in function 'include'
+	lua/autorun/!0_zclib_load.lua:27: in function 'LoadFiles'
+	lua/autorun/!0_zclib_load.lua:49: in function 'Initialize'
+	lua/autorun/!0_zclib_load.lua:62: in main chunk

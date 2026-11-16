@@ -1,0 +1,19 @@
+{
+	"zcity_hl2rep_gordon_chargers": "1",
+	"zcity_hl2rep_misc": "1",
+	"zcity_hl2rep_ammo": "1",
+	"zcity_hl2rep_weapons": "1",
+	"zcity_hl2rep_unknown_passthrough": "1",
+	"zcity_hl2rep_player_ammo_conversion": "1",
+	"zcity_hl2rep_battery": "1",
+	"zcity_hl2rep_keep_models": "",
+	"zcity_hl2rep_keep_classes": "weapon_stunstick",
+	"zcity_hl2rep_enable": "1",
+	"zcity_hl2rep_health": "1",
+	"zcity_hl2rep_explosives": "1",
+	"zcity_hl2rep_block_vanilla_pickup": "0",
+	"zcity_hl2rep_melee": "0",
+	"zcity_hl2rep_props": "1",
+	"zcity_hl2rep_suit": "1",
+	"zcity_hl2rep_gordon_pickup_hook": "1"
+}

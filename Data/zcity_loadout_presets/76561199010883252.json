@@ -1,0 +1,86 @@
+{
+	"1": {
+		"meta": {
+			"savedAt": 1777451926,
+			"zcityVersion": "Release 1.4.0"
+		},
+		"ammo": {
+			"76": 168
+		},
+		"activeWeapon": "weapon_qbz97",
+		"weapons": [
+			{
+				"clip2": -1,
+				"class": "weapon_qbz97",
+				"clip1": 19,
+				"info": [
+					19,
+					{
+						"underbarrel": [
+							"laser4",
+							[]
+						],
+						"barrel": {
+							"1": "supressor2",
+							"3": []
+						},
+						"sight": [
+							"holo4",
+							[]
+						],
+						"mount": [],
+						"grip": [
+							"grip2",
+							[]
+						],
+						"magwell": []
+					}
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_medkit_sh",
+				"clip1": -1,
+				"info": [
+					80,
+					1,
+					10,
+					1,
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_bigbandage_sh",
+				"clip1": -1,
+				"info": [
+					150
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_betablock",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			},
+			{
+				"clip2": -1,
+				"class": "weapon_morphine",
+				"clip1": -1,
+				"info": [
+					1
+				]
+			}
+		],
+		"clothes": [],
+		"armor": {
+			"torso": "vest28",
+			"head": "helmet19"
+		},
+		"inventoryAttachments": [
+			"supressor5"
+		]
+	}
+}

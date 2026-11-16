@@ -1,0 +1,23 @@
+arguments	=	{
+			"<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198724286347</steamID64>
+	<steamID><![CDATA[]]></steamID>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<privacyMessage>This user has not yet set up their Steam Community profile.<br />If you know this person, encourage them to set up their profile and join in the gaming!</privacyMessage>
+</profile>",
+			400,
+			{
+			Connection	=	"keep-alive",
+			Vary	=	"Accept-Encoding",
+			Content-Type	=	"text/xml; charset=utf-8",
+			Cache-Control	=	"public,max-age=3600",
+			Expires	=	"Mon, 22 Jun 2026 21:07:23 GMT",
+			Content-Length	=	"283",
+			Last-Modified	=	"Mon, 22 Jun 2026 20:00:00 GMT",
+			Content-Encoding	=	"gzip",
+			Date	=	"Mon, 22 Jun 2026 20:12:49 GMT",
+			Server	=	"nginx",
+				},
+			200,
+}

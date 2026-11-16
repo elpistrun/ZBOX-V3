@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,абдуль сирена
+https://ru.hitmoz.org/get/music/20240326/Biboran_-_Zvuk_signalizacii_77639593.mp3
+#EXTINF:0,мотивационная речь абдуля
+https://ru.hitmoz.org/get/music/20240215/Biboran_-_motiviruyushhaya_rech_77445158.mp3
+#EXTINF:0,ебейший трек на пенек сел
+https://ru.hitmoz.org/get/music/20200701/Ansha_Abdul_-_JEto_Prosto_Abdulenno_70116480.mp3
+#EXTINF:0,ярость биборана
+https://ru.hitmoz.org/get/music/20191204/DJ_BIBORAN_-_YArost_Biborana_67517332.mp3
+
