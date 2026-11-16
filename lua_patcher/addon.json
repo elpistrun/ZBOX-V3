@@ -1,0 +1,8 @@
+{
+  "title": "Lua Patcher",
+  "type": "tool",
+  "tags": [
+    "build"
+  ],
+  "ignore": []
+}

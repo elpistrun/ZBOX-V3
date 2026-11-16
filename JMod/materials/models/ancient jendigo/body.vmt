@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Ancient Jendigo/Body"
+	"$bumpmap" "models/Ancient Jendigo/Body NM"
+                           
+	"$phong" "1"
+	"$phongexponent" "55"
+	"$phongboost" "0.01"	
+	"$phongfresnelranges"	"[2 3 8]"
+}

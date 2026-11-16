@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Ancient Jendigo/Eyes"	
+                "$bumpmap" "models/Ancient Jendigo/Eyes NM"
+                "$selfillum" "1" 
+
+                           
+	"$phong" "1"
+	"$phongexponent" "55"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[2 3 8]"
+}

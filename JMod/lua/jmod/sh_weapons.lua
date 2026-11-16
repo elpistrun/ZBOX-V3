@@ -1,0 +1,3 @@
+﻿JMod.WeaponTable = {}
+
+JMod.AmmoTable = {}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Ancient Jendigo/Antlers 6"
+                           
+	"$phong" "1"
+	"$phongexponent" "55"
+	"$phongboost" "0.01"	
+	"$phongfresnelranges"	"[2 3 8]"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Glide // unender's \"enhanced\" helicopter damage",
+  "type": "vehicle",
+  "tags": [
+    "realism",
+    "movie",
+    "fun"
+  ],
+  "ignore": [
+    ".lua"
+  ]
+}
